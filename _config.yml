@@ -28,7 +28,7 @@ defaults:
 email: alexandref@gmail.com
 description: "Apartments for rent in Providence, Rhode Island \n"
 baseurl:
-url: http://yourdomain.com
+url: https://alexandreaco.github.io/maggiesrentals.github.io
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown

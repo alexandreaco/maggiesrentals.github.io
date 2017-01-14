@@ -19,7 +19,7 @@ layout: default
 
   <div class="slideshow">
     {% for slide in page.slideshow %}
-      <img src="{{ slide.image }}"  alt="{{ slide.description }}"/>
+      <img src="{{ site.url }}{{ slide.image }}"  alt="{{ slide.description }}"/>
     {% endfor %}
   </div>
 
