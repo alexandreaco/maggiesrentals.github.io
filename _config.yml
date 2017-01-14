@@ -20,9 +20,9 @@ defaults:
     type: apartments
   values:
     slideshow:
-    - image:
-      description:
-    building:
+    - image: 
+      description: 
+    building: 
     is available: true
     template: apartment
 email: alexandref@gmail.com
