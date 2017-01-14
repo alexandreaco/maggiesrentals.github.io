@@ -7,7 +7,7 @@ Google Map Text: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m
   width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 Apartments:
 - 34 Doyle First Floor
-layout: apartment
+layout: building
 ---
 
 Modern Kitchens with New Appliances
