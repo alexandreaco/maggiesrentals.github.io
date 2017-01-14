@@ -14,18 +14,18 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: apartments
+  values:
+    images: 
+    building: 
+    is available: true
 email: alexandref@gmail.com
 description: "Apartments for rent in Providence, Rhode Island \n"
-baseurl:
+baseurl: 
 url: http://yourdomain.com
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
-defaults:
-  -
-    scope:
-      type: apartments
-    values:
-      images:
-      building:
-      is available: true
