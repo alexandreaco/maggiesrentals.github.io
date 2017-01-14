@@ -5,7 +5,7 @@ collections:
   apartments:
     title: Apartments
     output: true
-  buildings:
+  "-path":
     title: Buildings
     output: true
   posts:
