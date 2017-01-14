@@ -20,4 +20,18 @@ layout: default
     {{ page['Google Map Text'] }}
   </div>
 
+  <div class="apartments">
+    <ul>
+      {% for apartment in page.Apartments %}
+        {% assign apartmentObject = site.apartments | where: 'title', apartment | first %}
+        {% if apartmentObject %}
+          <li>
+            <a href="{{ apartmentObject.url }}">{{ apartmentObject.title}}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+  </div>
+
 </article>
