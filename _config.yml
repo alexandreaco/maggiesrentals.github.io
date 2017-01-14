@@ -20,14 +20,14 @@ defaults:
     type: apartments
   values:
     slideshow:
-    - image:
-      description:
-    building:
+    - image: 
+      description: 
+    building: 
     is available: true
     template: apartment
 email: alexandref@gmail.com
 description: "Apartments for rent in Providence, Rhode Island \n"
-baseurl:
+baseurl: 
 url: http://yourdomain.com
 twitter_username: jekyllrb
 github_username: jekyll
