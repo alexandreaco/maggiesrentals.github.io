@@ -6,7 +6,7 @@ slideshow:
   description: Photo
 - image: "/uploads/34_1.jpg"
   description: Photo two
-building: 
+building: 34 Doyle Avenue
 is available: true
 layout: apartment
 ---

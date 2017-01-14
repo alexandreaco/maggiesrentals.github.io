@@ -24,7 +24,7 @@ defaults:
       description:
     building:
     is available: true
-    template: apartment
+    layout: apartment
 - scope:
     path: ''
     type: buildings

@@ -23,4 +23,13 @@ layout: default
     {% endfor %}
   </div>
 
+  <div class="building-amenities">
+    {% assign buildingObject = site.buildings | where: 'title', page.building | first %}
+    {% if buildingObject %}
+      <a href="{{ site.url }}{{ buildingObject.url }}">Building-Wide Amenities</a>
+      <p>{{ buildingObject.content }}</p>
+    {% endif %}
+
+  </div>
+
 </article>
