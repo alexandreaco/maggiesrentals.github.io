@@ -16,22 +16,27 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="map">
-    {{ page['Google Map Text'] }}
-  </div>
-
   <div class="apartments">
     <ul>
       {% for apartment in page.Apartments %}
         {% assign apartmentObject = site.apartments | where: 'title', apartment | first %}
         {% if apartmentObject %}
           <li>
-            <a href="{{ apartmentObject.url }}">{{ apartmentObject.title}}</a>
+            <a href="{{ site.url }}{{ apartmentObject.url }}">{{ apartmentObject.title }}</a>
+            {% if apartmentObject['is available'] %}
+              <em>Available</em>
+            {% else %}
+              <em>Unavailable</em>
+            {% endif %}
+            <p>{{ apartmentObject.content }}</p>
           </li>
         {% endif %}
       {% endfor %}
     </ul>
+  </div>
 
+  <div class="map">
+    {{ page['Google Map Text'] }}
   </div>
 
 </article>
