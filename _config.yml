@@ -20,22 +20,22 @@ defaults:
     type: apartments
   values:
     slideshow:
-    - image:
-      description:
-    building:
+    - image: 
+      description: 
+    building: 
     is available: true
     template: apartment
 - scope:
     path: ''
     type: buildings
   values:
-    image:
-    Google Map Text:
-    Apartments:
+    image: 
+    Google Map Text: 
+    Apartments: 
     layout: building
 email: alexandref@gmail.com
 description: "Apartments for rent in Providence, Rhode Island \n"
-baseurl:
+baseurl: 
 url: https://alexandreaco.github.io/maggiesrentals.github.io
 twitter_username: jekyllrb
 github_username: jekyll
