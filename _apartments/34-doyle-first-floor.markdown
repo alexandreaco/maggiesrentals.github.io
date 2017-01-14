@@ -5,6 +5,7 @@ images:
 - "/uploads/34_1.jpg"
 building: 
 is available: true
+layout: page
 ---
 
 2 Bedroom, 1 Bathroom, Living Room, Eat-in-Kitchen, Front Porch
