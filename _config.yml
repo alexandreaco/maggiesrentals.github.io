@@ -2,6 +2,9 @@
 title: Maggie's Rentals
 timezone: UTC
 collections:
+  apartments:
+    title: Apartments
+    output: true
   buildings:
     title: Buildings
     output: true
