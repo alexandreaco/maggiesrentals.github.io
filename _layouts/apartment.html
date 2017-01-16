@@ -2,20 +2,19 @@
 layout: default
 ---
 
-<article class="post">
+<article class="apartment">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    {% if page['is available'] %}
-        <span>Available</span>
-    {% else %}
-        <span>Unavailable</span>
-    {% endif %}
+  <header class="apartment-header">
+    <h1 class="apartment-title">{{ page.title }}</h1>
+    <p class="apartment-summary">
+      {{ page.bedrooms }} Bedroom, {{ page.bathrooms }} Bath,
+      {% if page['is available'] %}
+          <span>Available</span>
+      {% else %}
+          <span>Unavailable</span>
+      {% endif %}
+    </p>
   </header>
-
-  <div class="post-content">
-    {{ content }}
-  </div>
 
   <div class="slideshow">
     {% for slide in page.slideshow %}
@@ -23,13 +22,23 @@ layout: default
     {% endfor %}
   </div>
 
-  <div class="building-amenities">
-    {% assign buildingObject = site.buildings | where: 'title', page.building | first %}
-    {% if buildingObject %}
-      <a href="{{ site.url }}{{ buildingObject.url }}">Building-Wide Amenities</a>
-      <p>{{ buildingObject.content }}</p>
-    {% endif %}
 
+  <div class="apartment-content">
+    <div class="apartment-features">
+      <h3>Apartment Features</h3>
+      <p>{{ content }}</p>
+    </div>
+    <div class="building-amenities">
+      <h3>Building-Wide Amenities</h3>
+      {% assign buildingObject = site.buildings | where: 'title', page.building | first %}
+      {% if buildingObject %}
+        <p>{{ buildingObject.content }}</p>
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="location">
+    {{ buildingObject['Google Map Text'] }}
   </div>
 
 </article>

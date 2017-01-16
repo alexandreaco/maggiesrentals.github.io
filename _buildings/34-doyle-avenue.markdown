@@ -9,7 +9,6 @@ Apartments:
 - 34 Doyle First Floor
 layout: building
 ---
-
 Modern Kitchens with New Appliances
 Hardwood Floors, Oversized Replacement Windows & 10' Ceilings
 Private Tenant Off-Street Parking

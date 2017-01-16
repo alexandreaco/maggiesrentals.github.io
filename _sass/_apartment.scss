@@ -1,0 +1,26 @@
+.apartment-header {
+  margin-bottom: 45px;
+  margin-top: 15px;
+}
+.apartment-title {
+  font-size: 28px;
+}
+.apartment-summary {
+  font-size: 18px;
+}
+.apartment-content {
+  max-width: 800px;
+  display: flex;
+  margin: 60px auto;
+}
+.apartment-features,
+.building-amenities {
+  width: 50%;
+  h3 {
+    color: $brand-color;
+    font-weight: 700;
+  }
+  p {
+    white-space: pre-line;
+  }
+}

@@ -1,0 +1,13 @@
+.footer-content {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.footer-left,
+.footer-right {
+  display: block;
+  white-space: pre-line;
+}
+.footer-right {
+  text-align: right;
+}

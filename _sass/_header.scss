@@ -1,0 +1,35 @@
+.site-header {
+  background-color: #FFFFFF;
+  padding-top: 40px;
+  padding-bottom: 60px;
+  position: relative;
+
+  &:before {
+    content: '';
+    display: block;
+    position: absolute;
+    width: calc(100% - 30px);
+    left: 15px;
+    bottom: 37px;
+    border-bottom: 1px solid $highlight-color;
+  }
+
+  &:after {
+    content: '';
+    display: block;
+    position: absolute;
+    width: calc(100% - 30px);
+    left: 15px;
+    bottom: 32px;
+    border-bottom: 1px solid $highlight-color;
+  }
+
+}
+
+.site-title {
+  color: $brand-color;
+  font-size: 36px;
+  &:visited {
+    color: $brand-color;
+  }
+}
