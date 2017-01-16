@@ -16,7 +16,7 @@ layout: default
     </p>
   </header>
 
-  <div class="slideshow">
+  <div class="slideshow" id="slideshow">
     {% for slide in page.slideshow %}
       <img src="{{ site.url }}{{ slide.image }}"  alt="{{ slide.description }}"/>
     {% endfor %}
