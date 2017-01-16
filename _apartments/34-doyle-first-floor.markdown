@@ -12,6 +12,7 @@ bathrooms: 1
 is available: false
 layout: apartment
 ---
+
 2 Bedroom,
 1 Bathroom,
 Living Room,
