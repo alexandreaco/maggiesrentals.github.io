@@ -7,7 +7,7 @@ slideshow:
 - image: "/uploads/34_1.jpg"
   description: Photo two
 building: 34 Doyle Avenue
-is available: true
+is available: false
 layout: apartment
 ---
 
