@@ -7,7 +7,7 @@ slideshow:
 - image: "/uploads/34_1.jpg"
   description: Photo two
 building: 34 Doyle Avenue
-is available: false
+is available: true
 Available at: 2017-02-01 00:00:00 Z
 layout: apartment
 ---
