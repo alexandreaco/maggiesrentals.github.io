@@ -7,6 +7,8 @@ Google Map Text: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m
   width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
 Apartments:
 - Thirty Four Doyle, First Floor
+- Thirty Four Doyle, Second Floor
+- Thirty Four Doyle, Third Floor
 layout: building
 ---
 
