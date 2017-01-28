@@ -1,5 +1,5 @@
 ---
-title: Main Street, num. 1635
+title: 1635 Main Street
 date: 2017-01-28 21:32:00 Z
 building: Main Street
 floor: First Floor
