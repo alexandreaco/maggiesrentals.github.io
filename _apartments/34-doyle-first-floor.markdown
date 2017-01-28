@@ -7,11 +7,11 @@ slideshow:
 - image: "/uploads/34_1.jpg"
   description: Photo two
 building: Thirty Four Doyle Avenue
-floor: first floor
 is available: true
-available at: 2017-02-01 00:00:00 Z
 bedrooms: 2
 bathrooms: 1
+available at: 2017-02-01 00:00:00 Z
+floor: first floor
 layout: apartment
 ---
 
@@ -19,4 +19,4 @@ layout: apartment
 1 Bathroom
 Living Room
 Eat-in-Kitchen
-Front Porch
+
