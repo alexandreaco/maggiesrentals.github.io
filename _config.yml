@@ -27,6 +27,7 @@ defaults:
       description:
     building:
     is available: true
+    floor:
     bedrooms:
     bathrooms:
     available at:
