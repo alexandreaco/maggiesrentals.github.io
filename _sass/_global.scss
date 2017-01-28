@@ -1,0 +1,18 @@
+h3 {
+  font-size: 20px;
+  font-weight: 700;
+}
+p {
+  font-size: 16px;
+}
+
+/* Flickity */
+.flickity-page-dots {
+  bottom: 15px;
+}
+.dot {
+  background-color: $highlight-color;
+}
+.dot.is-selected {
+  background-color: $gold-color;
+}

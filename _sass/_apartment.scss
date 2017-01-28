@@ -1,3 +1,7 @@
+.apartment-container {
+  background-color: $background-color;
+  padding-top: 20px;
+}
 .apartment-header {
   margin-bottom: 45px;
   margin-top: 15px;
@@ -11,7 +15,7 @@
 .apartment-content {
   max-width: 800px;
   display: flex;
-  margin: 60px auto;
+  margin: 60px auto 30px auto;
 }
 .apartment-features,
 .building-amenities {
@@ -22,5 +26,10 @@
   }
   p {
     white-space: pre-line;
+    color: $brand-color;
+    line-height: 2.25rem;
   }
+}
+.location {
+  padding-top: 45px;
 }
