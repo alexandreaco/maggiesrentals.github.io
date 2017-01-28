@@ -45,5 +45,5 @@ telephone: "(401) 739-5424"
 address: "P.O. Box 6134 \n Warwick, RI 02886"
 description: "Apartments for rent in Providence, Rhode Island \n"
 baseurl:
-url: http://localhost:4000
+url: https://alexandreaco.github.io/maggiesrentals.github.io
 markdown: kramdown
