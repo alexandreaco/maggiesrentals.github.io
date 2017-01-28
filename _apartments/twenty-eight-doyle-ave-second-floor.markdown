@@ -5,7 +5,7 @@ building: Twenty Eight Doyle Avenue
 is available: true
 floor: Second Floor
 bedrooms: 3
-bathrooms: 1 1/5
+bathrooms: 1 1/2
 available at: 2017-02-01 00:00:00 Z
 ---
 
