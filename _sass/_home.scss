@@ -1,6 +1,8 @@
 .home {
-  background-color: $background-color;
   padding: 30px 0;
+}
+.hero {
+  margin-top: 30px;
 }
 .apartment-list {
   display: flex;
@@ -9,7 +11,8 @@
   color: $brand-color;
 }
 .al_title {
-  width: 70%;
+  font-weight: 400;
+  font-size: 32px;
 }
 .al_headings {
   width: 30%;
@@ -21,9 +24,18 @@
 .al_content {
   width: 100%;
 }
+.al_building {
+  margin-bottom: 25px;
+}
 .al_building_title {
+  display: flex;
   border-bottom: 1px solid $gold-color;
   padding: 10px 0;
+  margin-bottom: 15px;
+}
+.al_building_name {
+  width: 70%;
+  margin-bottom: 0;
 }
 .al_building_content {
   display: flex;
