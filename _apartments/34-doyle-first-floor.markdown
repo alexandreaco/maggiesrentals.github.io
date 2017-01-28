@@ -7,6 +7,7 @@ slideshow:
 - image: "/uploads/34_1.jpg"
   description: Photo two
 building: 34 Doyle Avenue
+floor: first floor
 is available: true
 available at: 2017-02-01 00:00:00 Z
 bedrooms: 2

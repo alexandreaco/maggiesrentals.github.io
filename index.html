@@ -3,21 +3,39 @@ layout: default
 ---
 
 <div class="home">
+  <div class="wrapper">
 
-  <h1 class="page-heading">Posts</h1>
+    {% for location in site.locations %}
+      <div class="apartment-list">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h3 class="al_title">{{ location.title }}</h3>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+        <div class="al_headings">
+          <span class="al_heading">Bedrooms</span>
+          <span class="al_heading">Bathrooms</span>
+        </div>
+
+        <div class="al_content">
+          {% for building in location.buildings %}
+            {% assign buildingObject = site.buildings | where: 'title', building | first %}
+            {% if buildingObject %}
+              <div class="al_building">
+                <p class="al_building_title">{{ buildingObject.title }}</p>
+                {% for apartment in buildingObject.Apartments %}
+                  {% assign apartmentObject = site.apartments | where: 'title', apartment | first %}
+                  {% if apartmentObject %}
+                    <a class="al_building_content" href="{{ apartmentObject.url | prepend: site.url }}">
+                      <p class="al_apartment">{{ apartmentObject.floor }}</p>
+                      <p class="al_bedroom">{{ apartmentObject.bedrooms }}</p>
+                      <p class="al_bathroom">{{ apartmentObject.bathrooms }}</p>
+                    </a>
+                  {% endif %}
+                {% endfor %}
+              </div>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
     {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+  </div>
 </div>
