@@ -27,14 +27,15 @@ slideshow:
 - image: "/uploads/Copy%20of%20IMG_0079.JPG"
   description: 
 building: Thirty Four Doyle Avenue
+is available: false
 floor: third floor
 bedrooms: 2
 bathrooms: 1
 available at: 2017-04-05 00:00:00 Z
-is available: false
 ---
 
 2 Bedrooms
 1 Bathroom
 Living Room
 Eat-in-Kitchen
+
