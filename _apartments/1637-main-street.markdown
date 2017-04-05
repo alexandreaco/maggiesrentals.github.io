@@ -6,6 +6,7 @@ floor: Third Floor
 bedrooms: 1
 bathrooms: 1
 available at: 2017-02-01 00:00:00 Z
+is available: false
 ---
 
 1 Bedroom

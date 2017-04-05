@@ -6,6 +6,7 @@ floor: First Floor
 bedrooms: studio
 bathrooms: 1
 available at: 2017-02-01 00:00:00 Z
+is available: false
 ---
 
 Studio Apartment
