@@ -1,8 +1,10 @@
 .home {
-  padding: 30px 0;
+  padding: 0 0 30px 0;
 }
 .hero {
-  margin-top: 30px;
+  max-height: 430px;
+  overflow: hidden;
+  width: 100%;
 }
 .apartment-list {
   display: flex;
