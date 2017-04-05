@@ -31,7 +31,7 @@ is available: true
 floor: second floor
 bedrooms: 2
 bathrooms: 1
-available at: 2017-02-01 00:00:00 Z
+available at: 2017-05-01 00:00:00 Z
 ---
 
 2 Bedrooms
