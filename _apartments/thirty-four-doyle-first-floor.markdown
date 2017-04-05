@@ -7,25 +7,25 @@ slideshow:
 - image: "/uploads/IMG_0053.JPG"
   description: Photo two
 - image: "/uploads/IMG_0057.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_0060.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_0061.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_0066.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_0075.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_0076.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_0077.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_0094.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_0098.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_0106.JPG"
-  description:
+  description: 
 building: Thirty Four Doyle Avenue
 floor: first floor
 bedrooms: 2

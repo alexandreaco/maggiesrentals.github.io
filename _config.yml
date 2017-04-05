@@ -23,28 +23,28 @@ defaults:
     type: apartments
   values:
     slideshow:
-    - image:
-      description:
-    building:
+    - image: 
+      description: 
+    building: 
     is available: true
-    floor:
-    bedrooms:
-    bathrooms:
-    available at:
+    floor: 
+    bedrooms: 
+    bathrooms: 
+    available at: 
     layout: apartment
 - scope:
     path: ''
     type: buildings
   values:
-    image:
-    Google Map Text:
+    image: 
+    Google Map Text: 
     Apartments:
-    -
+    - 
     layout: building
 email: maggiegd@verizon.net
 telephone: "(401) 739-5424"
 address: "P.O. Box 6134 \n Warwick, RI 02886"
 description: "Apartments for rent in Providence, Rhode Island \n"
-baseurl:
+baseurl: 
 url: http://localhost:4000
 markdown: kramdown
