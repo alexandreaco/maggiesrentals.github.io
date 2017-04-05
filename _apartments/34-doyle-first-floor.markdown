@@ -27,7 +27,7 @@ slideshow:
 - image: "/uploads/IMG_0106.JPG"
   description: 
 building: Thirty Four Doyle Avenue
-is available: true
+is available: false
 floor: first floor
 bedrooms: 2
 bathrooms: 1
