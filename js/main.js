@@ -1,9 +1,13 @@
 // Initialize Flickity
-var elem = document.getElementById('slideshow');
-if (elem) {
-  var flkty = new Flickity( elem, {
-    // options
-    cellAlign: 'left',
-    contain: true
-  });
-}
+document.addEventListener("DOMContentLoaded", function() {
+  var elem = document.getElementById('slideshow');
+  if (elem) {
+    var flkty = new Flickity( elem, {
+      // options
+      cellAlign: 'center',
+      imagesLoaded: true,
+      setGallerySize: false,
+      wrapAround: true
+    });
+  }
+});
