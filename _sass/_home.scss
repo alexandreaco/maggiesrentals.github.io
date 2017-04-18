@@ -5,6 +5,10 @@
   max-height: 430px;
   overflow: hidden;
   width: 100%;
+
+  img {
+    width: 100%;
+  }
 }
 .apartment-list {
   display: flex;
