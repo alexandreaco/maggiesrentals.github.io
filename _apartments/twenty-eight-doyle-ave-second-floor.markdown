@@ -26,3 +26,4 @@ bathrooms: 1 1/2
 1 1/5 Bathrooms
 Living Room
 Eat-in-Kitchen
+Community Brick Patio

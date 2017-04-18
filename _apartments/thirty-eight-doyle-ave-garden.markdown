@@ -3,31 +3,31 @@ title: 38 Doyle Ave, Garden Level
 date: 2017-01-28 21:21:00 Z
 slideshow:
 - image: "/uploads/IMG_0561.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_0564.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_0569.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_0575.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_0579.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_0585.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_0588.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_0598.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_0617.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_0621.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_0633.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_9960.JPG"
-  description: 
+  description:
 building: 38 Doyle Avenue
-floor: Basement
+floor: Garden
 bedrooms: 1-2
 bathrooms: 1
 available at: 2017-02-01 00:00:00 Z
@@ -38,3 +38,4 @@ is available: false
 1 Bathroom
 Living Room
 Eat-in-Kitchen
+Community Brick Patio

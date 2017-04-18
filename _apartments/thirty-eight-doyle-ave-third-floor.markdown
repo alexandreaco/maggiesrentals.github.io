@@ -24,3 +24,4 @@ is available: false
 1 Bathroom
 Living Room
 Eat-in-Kitchen
+Community Brick Patio

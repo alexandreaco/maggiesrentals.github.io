@@ -14,3 +14,4 @@ is available: false
 Living Room
 Dining Room
 Kitchen
+Community Brick Patio

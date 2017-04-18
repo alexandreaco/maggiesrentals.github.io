@@ -10,3 +10,4 @@ is available: false
 ---
 
 Studio Apartment
+Community Brick Patio

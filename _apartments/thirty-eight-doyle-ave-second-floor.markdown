@@ -22,11 +22,12 @@ building: 38 Doyle Avenue
 floor: Second Floor
 bedrooms: 3
 bathrooms: 1
-available at: 2017-04-15 00:00:00 Z
-is available: false
+available at: 2017-06-1 00:00:00 Z
+is available: true
 ---
 
 3 Bedrooms
 1 Bathrooms
 Living Room
 Eat-in-Kitchen
+Community Brick Patio

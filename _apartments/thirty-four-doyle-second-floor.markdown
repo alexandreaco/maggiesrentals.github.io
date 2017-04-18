@@ -3,32 +3,32 @@ title: 34 Doyle, Second Floor
 date: 2017-01-28 20:24:00 Z
 slideshow:
 - image: "/uploads/2013%20htc%201976.jpg"
-  description: 
+  description:
 - image: "/uploads/2013%20htc%201977.jpg"
-  description: 
+  description:
 - image: "/uploads/Copy%20of%20IMG_0057.JPG"
-  description: 
+  description:
 - image: "/uploads/Copy%20of%20IMG_0058.JPG"
-  description: 
+  description:
 - image: "/uploads/Copy%20of%20IMG_0059.JPG"
-  description: 
+  description:
 - image: "/uploads/Copy%20of%20IMG_0060.JPG"
-  description: 
+  description:
 - image: "/uploads/Copy%20of%20IMG_0061.JPG"
-  description: 
+  description:
 - image: "/uploads/Copy%20of%20IMG_0065.JPG"
-  description: 
+  description:
 - image: "/uploads/Copy%20of%20IMG_0070.JPG"
-  description: 
+  description:
 - image: "/uploads/Copy%20of%20IMG_0073.JPG"
-  description: 
+  description:
 - image: "/uploads/Copy%20of%20IMG_0074.JPG"
-  description: 
+  description:
 - image: "/uploads/Copy%20of%20IMG_0078.JPG"
-  description: 
+  description:
 building: 34 Doyle Avenue
 is available: true
-floor: second floor
+floor: Second Floor
 bedrooms: 2
 bathrooms: 1
 available at: 2017-05-01 00:00:00 Z
@@ -38,3 +38,4 @@ available at: 2017-05-01 00:00:00 Z
 1 Bathroom
 Living Room
 Eat-in-Kitchen
+Community Brick Patio

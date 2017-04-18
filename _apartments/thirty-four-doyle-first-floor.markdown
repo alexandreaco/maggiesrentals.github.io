@@ -7,31 +7,31 @@ slideshow:
 - image: "/uploads/IMG_0053.JPG"
   description: Photo two
 - image: "/uploads/IMG_0057.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_0060.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_0061.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_0066.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_0075.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_0076.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_0077.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_0094.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_0098.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_0106.JPG"
-  description: 
+  description:
 building: 34 Doyle Avenue
-floor: first floor
+floor: First Floor
 bedrooms: 2
 bathrooms: 1
-available at: 2017-02-01 00:00:00 Z
-is available: false
+available at: 2017-06-01 00:00:00 Z
+is available: true
 layout: apartment
 ---
 
@@ -40,3 +40,4 @@ layout: apartment
 Living Room
 Eat-in-Kitchen
 Front Porch
+Community Brick Patio

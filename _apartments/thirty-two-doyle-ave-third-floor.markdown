@@ -35,3 +35,4 @@ is available: true
 Living Room
 Dining Room
 Kitchen
+Community Brick Patio

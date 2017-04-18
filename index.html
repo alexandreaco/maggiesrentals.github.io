@@ -24,19 +24,21 @@ layout: default
                   <div class="al_headings">
                     <span class="al_heading">Bedrooms</span>
                     <span class="al_heading">Bathrooms</span>
+                    <span class="al_heading">Vacancies</span>
                   </div>
                 </div>
                 {% for apartment in buildingObject.Apartments %}
                   {% assign apartmentObject = site.apartments | where: 'title', apartment | first %}
                   {% if apartmentObject %}
                     <a class="al_building_content" href="{{ apartmentObject.url | prepend: site.url }}">
-                      <p class="al_apartment">{{ apartmentObject.floor }}
-                        {% if apartmentObject['is available'] %}
-                          <em class="al_available">Available</em>
-                        {% endif %}
-                      </p>
+                      <p class="al_apartment">{{ apartmentObject.floor }}</p>
                       <p class="al_bedroom">{{ apartmentObject.bedrooms }}</p>
                       <p class="al_bathroom">{{ apartmentObject.bathrooms }}</p>
+                      <p class="al_vacancy">
+                        {% if apartmentObject['is available'] %}
+                          <em class="al_available">Available {{ apartmentObject['available at'] | date: "%B %-d" }}</em>
+                        {% endif %}
+                      </p>
                     </a>
                   {% endif %}
                 {% endfor %}

@@ -3,25 +3,25 @@ title: 42 Doyle Ave, Second Floor
 date: 2017-01-28 21:26:00 Z
 slideshow:
 - image: "/uploads/IMG_5874.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_5877.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_5880.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_5882.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_5885.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_5902.JPG"
-  description: 
+  description:
 - image: "/uploads/2013%20htc%201533-e4d293.jpg"
-  description: 
+  description:
 - image: "/uploads/IMG_5907-d1d381.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_5908%20-%20Copy-dfe916.JPG"
-  description: 
+  description:
 - image: "/uploads/IMG_5914-93ae97.JPG"
-  description: 
+  description:
 building: 42 Doyle Avenue
 floor: Second Floor
 bedrooms: 3
@@ -35,3 +35,6 @@ is available: false
 Living Room
 Dining Room
 Kitchen
+Hardwired for Internet
+Laundry in unit
+Community Brick Patio

@@ -46,3 +46,4 @@ Living Room
 Dining Area
 Kitchen
 Loft
+Community Brick Patio
