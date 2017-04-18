@@ -3,25 +3,25 @@ title: 32 Doyle Avenue, First Floor
 date: 2017-01-28 21:09:00 Z
 slideshow:
 - image: "/uploads/IMG_9918.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_9919.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_9920.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_9921.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_9922.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_9923.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_9924.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_9925.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_9926.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_9927.JPG"
-  description:
+  description: 
 building: 28 Doyle Avenue
 floor: First Floor
 bedrooms: 3

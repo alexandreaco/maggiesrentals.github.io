@@ -3,27 +3,27 @@ title: 42 Doyle Ave, Third Floor
 date: 2017-01-28 21:27:00 Z
 slideshow:
 - image: "/uploads/IMG_1155.jpg"
-  description:
+  description: 
 - image: "/uploads/IMG_1178.jpg"
-  description:
+  description: 
 - image: "/uploads/IMG_1181.jpg"
-  description:
+  description: 
 - image: "/uploads/IMG_1183.jpg"
-  description:
+  description: 
 - image: "/uploads/IMG_1187.jpg"
-  description:
+  description: 
 - image: "/uploads/IMG_1191.jpg"
-  description:
+  description: 
 - image: "/uploads/IMG_1197.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_1201.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_1210.jpg"
-  description:
+  description: 
 - image: "/uploads/IMG_1235.JPG"
-  description:
+  description: 
 - image: "/uploads/IMG_1249.jpg"
-  description:
+  description: 
 building: 42 Doyle Avenue
 floor: Third Floor
 bedrooms: 3
