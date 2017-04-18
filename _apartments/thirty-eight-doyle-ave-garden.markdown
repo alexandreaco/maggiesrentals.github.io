@@ -1,5 +1,5 @@
 ---
-title: Thirty Eight Doyle Ave, Garden Level
+title: 38 Doyle Ave, Garden Level
 date: 2017-01-28 21:21:00 Z
 slideshow:
 - image: "/uploads/IMG_0561.JPG"
@@ -26,7 +26,7 @@ slideshow:
   description: 
 - image: "/uploads/IMG_9960.JPG"
   description: 
-building: Thirty Eight Doyle Avenue
+building: 38 Doyle Avenue
 floor: Basement
 bedrooms: 1-2
 bathrooms: 1

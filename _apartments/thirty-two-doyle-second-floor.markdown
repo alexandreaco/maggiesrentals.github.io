@@ -1,5 +1,5 @@
 ---
-title: Thirty Two Doyle, Second Floor
+title: 32 Doyle, Second Floor
 date: 2017-01-28 21:15:00 Z
 slideshow:
 - image: "/uploads/32%232%20Kitchen.JPG"
@@ -30,7 +30,7 @@ slideshow:
   description: 
 - image: "/uploads/32%232%20back%20bedroom.JPG"
   description: 
-building: Thirty Two Doyle Avenue
+building: 32 Doyle Avenue
 floor: Second Floor
 bedrooms: 3
 bathrooms: 1

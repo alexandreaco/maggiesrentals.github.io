@@ -1,5 +1,5 @@
 ---
-title: Thirty Four Doyle, Third Floor
+title: 34 Doyle, Third Floor
 date: 2017-04-05 22:57:00 Z
 slideshow:
 - image: "/uploads/2013%20htc%201976-53c45f.jpg"
@@ -26,7 +26,7 @@ slideshow:
   description: 
 - image: "/uploads/Copy%20of%20IMG_0079.JPG"
   description: 
-building: Thirty Four Doyle Avenue
+building: 34 Doyle Avenue
 is available: false
 floor: third floor
 bedrooms: 2

@@ -1,5 +1,5 @@
 ---
-title: Thirty Two Doyle Ave, Third Floor
+title: 32 Doyle Ave, Third Floor
 date: 2017-01-28 21:16:00 Z
 slideshow:
 - image: "/uploads/IMG_4846.JPG"
@@ -22,7 +22,7 @@ slideshow:
   description: 
 - image: "/uploads/2016-03-30%2016.58.56.jpg"
   description: 
-building: Thirty Two Doyle Avenue
+building: 32 Doyle Avenue
 floor: Third Floor
 bedrooms: 3
 bathrooms: 1

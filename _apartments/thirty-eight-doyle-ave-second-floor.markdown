@@ -1,5 +1,5 @@
 ---
-title: Thirty Eight Doyle Ave, Second Floor
+title: 38 Doyle Ave, Second Floor
 date: 2017-01-28 21:23:00 Z
 slideshow:
 - image: "/uploads/38%20Doyle%20Kitchen.JPG"
@@ -18,7 +18,7 @@ slideshow:
   description: 
 - image: "/uploads/2014-03-14%2012.56.49-0d7c14.jpg"
   description: 
-building: Thirty Eight Doyle Avenue
+building: 38 Doyle Avenue
 floor: Second Floor
 bedrooms: 3
 bathrooms: 1

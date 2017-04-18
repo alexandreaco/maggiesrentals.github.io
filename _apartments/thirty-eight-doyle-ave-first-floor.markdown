@@ -1,5 +1,5 @@
 ---
-title: Thirty Eight Doyle Ave, First Floor
+title: 38 Doyle Ave, First Floor
 date: 2017-01-28 21:22:00 Z
 slideshow:
 - image: "/uploads/38%20Doyle%20Bedroom.jpg"
@@ -12,7 +12,7 @@ slideshow:
   description: 
 - image: "/uploads/2014-03-14%2012.56.49.jpg"
   description: 
-building: Thirty Eight Doyle Avenue
+building: 38 Doyle Avenue
 floor: First Floor
 bedrooms: 3
 bathrooms: 1

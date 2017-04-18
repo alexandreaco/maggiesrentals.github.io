@@ -1,5 +1,5 @@
 ---
-title: Thirty Eight Doyle Ave, Third Floor
+title: 38 Doyle Ave, Third Floor
 date: 2017-01-28 21:24:00 Z
 slideshow:
 - image: "/uploads/2013%20htc%201995.jpg"
@@ -12,7 +12,7 @@ slideshow:
   description: 
 - image: "/uploads/2013%20htc%201999.jpg"
   description: 
-building: Thirty Eight Doyle Avenue
+building: 38 Doyle Avenue
 floor: Third Floor
 bedrooms: 3
 bathrooms: 1

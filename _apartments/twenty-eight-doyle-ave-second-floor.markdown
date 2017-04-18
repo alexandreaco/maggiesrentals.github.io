@@ -1,5 +1,5 @@
 ---
-title: Twenty Eight Doyle Ave, Second Floor
+title: 28 Doyle Ave, Second Floor
 date: 2017-01-28 21:07:00 Z
 slideshow:
 - image: "/uploads/IMG_4084-6f7a52.JPG"
@@ -14,7 +14,7 @@ slideshow:
   description: 
 - image: "/uploads/IMG_4091-9b3ffa.JPG"
   description: 
-building: Twenty Eight Doyle Avenue
+building: 28 Doyle Avenue
 is available: false
 floor: Second Floor
 bedrooms: 3

@@ -1,5 +1,5 @@
 ---
-title: Thirty Four Doyle, First Floor
+title: 34 Doyle, First Floor
 date: 2017-01-14 17:22:00 Z
 slideshow:
 - image: "/uploads/IMG_0051.JPG"
@@ -26,7 +26,7 @@ slideshow:
   description: 
 - image: "/uploads/IMG_0106.JPG"
   description: 
-building: Thirty Four Doyle Avenue
+building: 34 Doyle Avenue
 floor: first floor
 bedrooms: 2
 bathrooms: 1

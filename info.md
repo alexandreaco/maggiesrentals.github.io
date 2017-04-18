@@ -18,10 +18,10 @@ Maggie Defreitas
 P.O. Box 6134
 Warwick,  RI 02887
 ```
----
 
+
+<br />
 ## Here are some important contacts you may find helpful.
-
 
 ### National Grid Electric and Gas Heat Company -
 [https://www.nationalgridus.com/RI-Home/Default](https://www.nationalgridus.com/RI-Home/Default)
@@ -38,4 +38,5 @@ Monday-Friday, 7:00am-5:00pm
 
 **Direct TV satellite dish units are not permitted on exterior of building**
 
+<br />
 Thank you!

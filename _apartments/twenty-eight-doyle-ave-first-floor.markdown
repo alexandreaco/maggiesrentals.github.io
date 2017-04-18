@@ -1,5 +1,5 @@
 ---
-title: Twenty Eight Doyle Ave, First Floor
+title: 28 Doyle Ave, First Floor
 date: 2017-01-28 21:05:00 Z
 slideshow:
 - image: "/uploads/28%20%231%20Double%20Parlor%20or%20Front%20Bedroom%20-%20Copy%20(2).JPG"
@@ -18,7 +18,7 @@ slideshow:
   description: 
 - image: "/uploads/P5040027.JPG"
   description: 
-building: Twenty Eight Doyle Avenue
+building: 28 Doyle Avenue
 floor: First Floor
 bedrooms: 3
 bathrooms: 1 1/2

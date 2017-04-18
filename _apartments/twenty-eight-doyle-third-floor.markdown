@@ -1,5 +1,5 @@
 ---
-title: Twenty Eight Doyle, Third Floor
+title: 28 Doyle, Third Floor
 date: 2017-01-28 21:08:00 Z
 slideshow:
 - image: "/uploads/IMG_4261.JPG"
@@ -32,7 +32,7 @@ slideshow:
   description: 
 - image: "/uploads/2014-03-14%2012.33.36.jpg"
   description: 
-building: Twenty Eight Doyle Avenue
+building: 28 Doyle Avenue
 floor: Third Floor
 bedrooms: 3
 bathrooms: 1

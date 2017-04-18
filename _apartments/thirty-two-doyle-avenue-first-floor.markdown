@@ -1,5 +1,5 @@
 ---
-title: Thirty Two Doyle Avenue, First Floor
+title: 32 Doyle Avenue, First Floor
 date: 2017-01-28 21:09:00 Z
 slideshow:
 - image: "/uploads/IMG_9918.JPG"
@@ -22,7 +22,7 @@ slideshow:
   description: 
 - image: "/uploads/IMG_9927.JPG"
   description: 
-building: Twenty Eight Doyle Avenue
+building: 28 Doyle Avenue
 floor: First Floor
 bedrooms: 3
 bathrooms: 1 1/2

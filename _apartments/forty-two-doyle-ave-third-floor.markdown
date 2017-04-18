@@ -1,5 +1,5 @@
 ---
-title: Forty Two Doyle Ave, Third Floor
+title: 42 Doyle Ave, Third Floor
 date: 2017-01-28 21:27:00 Z
 slideshow:
 - image: "/uploads/IMG_1155.jpg"
@@ -24,7 +24,7 @@ slideshow:
   description: 
 - image: "/uploads/IMG_1249.jpg"
   description: 
-building: Forty Two Doyle Avenue
+building: 42 Doyle Avenue
 floor: Third Floor
 bedrooms: 3
 bathrooms: 1

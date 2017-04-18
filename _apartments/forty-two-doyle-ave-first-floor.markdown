@@ -1,5 +1,5 @@
 ---
-title: Forty Two Doyle Ave, First Floor
+title: 42 Doyle Ave, First Floor
 date: 2017-01-28 21:25:00 Z
 slideshow:
 - image: "/uploads/42%20Doyle%20Dining-best.JPG"
@@ -16,7 +16,7 @@ slideshow:
   description: 
 - image: "/uploads/IMG_5920.JPG"
   description: 
-building: Forty Two Doyle Avenue
+building: 42 Doyle Avenue
 floor: First Floor
 bedrooms: 3
 bathrooms: 1
