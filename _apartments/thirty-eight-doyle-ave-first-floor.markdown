@@ -3,17 +3,17 @@ title: 38 Doyle Ave, Unit 2, First Floor
 date: 2017-01-28 21:22:00 Z
 slideshow:
 - image: "/uploads/38%20Doyle%20Bedroom.jpg"
-  description:
+  description: 
 - image: "/uploads/Copy of 38 Doyle Kitchen (1).JPG"
-  description:
+  description: 
 - image: "/uploads/38%20Doyle%20Living%20-%20Bar%20top.jpg"
-  description:
+  description: 
 - image: "/uploads/2014-03-14%2012.49.31.jpg"
-  description:
+  description: 
 - image: "/uploads/2014-03-14%2012.52.24.jpg"
-  description:
+  description: 
 - image: "/uploads/2014-03-14%2012.56.49.jpg"
-  description:
+  description: 
 building: 38 Doyle Avenue
 floor: Unit 2 (First Floor)
 bedrooms: 3
