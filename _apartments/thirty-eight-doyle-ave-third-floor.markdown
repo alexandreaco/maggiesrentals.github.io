@@ -1,19 +1,19 @@
 ---
-title: 38 Doyle Ave, Third Floor
+title: 38 Doyle Ave, Unit 4, Third Floor
 date: 2017-01-28 21:24:00 Z
 slideshow:
 - image: "/uploads/2013%20htc%201995.jpg"
-  description: 
+  description:
 - image: "/uploads/2013%20htc%201996.jpg"
-  description: 
+  description:
 - image: "/uploads/2013%20htc%201997.jpg"
-  description: 
+  description:
 - image: "/uploads/2013%20htc%201998.jpg"
-  description: 
+  description:
 - image: "/uploads/2013%20htc%201999.jpg"
-  description: 
+  description:
 building: 38 Doyle Avenue
-floor: Third Floor
+floor: Unit 4 (Third Floor)
 bedrooms: 3
 bathrooms: 1
 available at: 2017-04-15 00:00:00 Z
