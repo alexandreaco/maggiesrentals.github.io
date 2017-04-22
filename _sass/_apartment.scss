@@ -34,7 +34,10 @@
   padding-top: 45px;
 }
 .slideshow {
-  height: 600px;
+  height: 400px;
+  @media screen and (min-width: 600px) {
+    height: 600px;
+  }
   img {
     height: 100%;
     width: auto;
