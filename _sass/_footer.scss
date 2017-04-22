@@ -28,3 +28,14 @@
 .footer-right {
   text-align: right;
 }
+
+.social {
+  a {
+    color: $highlight-color;
+    margin-right: 17px;
+    font-size: 20px;
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
