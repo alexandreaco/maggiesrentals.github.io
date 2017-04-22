@@ -16,7 +16,7 @@
       <div class="trigger">
         <a class="page-link" href="mailto:{{ site.email }}">Get in Touch</a>
         <a class="page-link" href="tel:14017395424">(401) 739-5424</a>
-        <a class="page-link" href="#">Application</a>
+        <a class="page-link" href="{{ site.url }}/uploads/2017-Rental-Application-Maggie.pdf" target="_blank">Application</a>
         {% for my_page in site.pages %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
