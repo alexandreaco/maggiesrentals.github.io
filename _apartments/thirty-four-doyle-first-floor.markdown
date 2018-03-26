@@ -1,6 +1,7 @@
 ---
 title: 34 Doyle, First Floor
 date: 2017-01-14 17:22:00 Z
+position: 10
 slideshow:
 - image: "/uploads/IMG_0051.JPG"
   description: Photo

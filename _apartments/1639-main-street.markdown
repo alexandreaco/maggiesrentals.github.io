@@ -1,6 +1,7 @@
 ---
 title: 1639 Main Street
 date: 2017-01-28 21:34:00 Z
+position: 12
 building: Main Street
 floor: Second Floor
 bedrooms: 2

@@ -1,6 +1,7 @@
 ---
 title: 1643 Main Street
 date: 2017-01-28 21:36:00 Z
+position: 15
 building: Main Street
 floor: Third Floor
 bedrooms: 2

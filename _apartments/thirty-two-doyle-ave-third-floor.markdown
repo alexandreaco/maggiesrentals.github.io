@@ -1,6 +1,7 @@
 ---
 title: 32 Doyle Ave, Third Floor
 date: 2017-01-28 21:16:00 Z
+position: 5
 slideshow:
 - image: "/uploads/IMG_4846.JPG"
   description: 

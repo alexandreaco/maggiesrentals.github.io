@@ -1,6 +1,7 @@
 ---
 title: 42 Doyle Ave, Third Floor
 date: 2017-01-28 21:27:00 Z
+position: 18
 slideshow:
 - image: "/uploads/IMG_1155.jpg"
   description: 

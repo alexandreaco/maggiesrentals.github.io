@@ -1,6 +1,7 @@
 ---
 title: 34 Doyle, Third Floor
 date: 2017-04-05 22:57:00 Z
+position: 6
 slideshow:
 - image: "/uploads/2013%20htc%201976-53c45f.jpg"
   description: 

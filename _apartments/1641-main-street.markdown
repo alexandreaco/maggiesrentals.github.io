@@ -1,6 +1,7 @@
 ---
 title: 1641 Main Street
 date: 2017-01-28 21:35:00 Z
+position: 14
 building: Main Street
 floor: Second Floor
 bedrooms: 2

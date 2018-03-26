@@ -1,6 +1,7 @@
 ---
 title: 32 Doyle, Second Floor
 date: 2017-01-28 21:15:00 Z
+position: 4
 slideshow:
 - image: "/uploads/32%232%20Kitchen.JPG"
   description: 

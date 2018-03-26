@@ -1,6 +1,7 @@
 ---
 title: 42 Doyle Ave, Second Floor
 date: 2017-01-28 21:26:00 Z
+position: 17
 slideshow:
 - image: "/uploads/IMG_5874.JPG"
   description: 

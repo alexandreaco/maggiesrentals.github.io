@@ -1,6 +1,7 @@
 ---
 title: 32 Doyle Avenue, First Floor
 date: 2017-01-28 21:09:00 Z
+position: 3
 slideshow:
 - image: "/uploads/IMG_9918.JPG"
   description: 

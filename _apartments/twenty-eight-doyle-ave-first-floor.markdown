@@ -1,6 +1,7 @@
 ---
 title: 28 Doyle Ave, First Floor
 date: 2017-01-28 21:05:00 Z
+position: 0
 slideshow:
 - image: "/uploads/28%20%231%20Double%20Parlor%20or%20Front%20Bedroom%20-%20Copy%20(2).JPG"
   description: 
