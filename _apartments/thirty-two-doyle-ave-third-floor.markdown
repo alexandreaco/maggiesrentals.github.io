@@ -23,11 +23,11 @@ slideshow:
 - image: "/uploads/2016-03-30%2016.58.56.jpg"
   description: 
 building: 32 Doyle Avenue
-is available: false
+is available: true
 floor: Third Floor
 bedrooms: 3
 bathrooms: 1
-available at: 2017-05-01 00:00:00 Z
+available at: 2018-07-01 00:00:00 Z
 ---
 
 3 Bedrooms
