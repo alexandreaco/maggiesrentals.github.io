@@ -1,7 +1,7 @@
 ---
 title: 38 Doyle Ave, Unit 1, Garden Level
 date: 2017-01-28 21:21:00 Z
-position: 11
+position: 9
 slideshow:
 - image: "/uploads/IMG_0561.JPG"
   description: 
