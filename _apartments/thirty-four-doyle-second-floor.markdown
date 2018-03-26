@@ -1,7 +1,7 @@
 ---
 title: 34 Doyle, Second Floor
 date: 2017-01-28 20:24:00 Z
-position: 9
+position: 7
 slideshow:
 - image: "/uploads/2013%20htc%201976.jpg"
   description: 
