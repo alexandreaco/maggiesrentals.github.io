@@ -27,7 +27,7 @@ slideshow:
 - image: "/uploads/Copy%20of%20IMG_0079.JPG"
   description: 
 building: 34 Doyle Avenue
-is available: true
+is available: false
 floor: Third Floor
 bedrooms: 2
 bathrooms: 1
