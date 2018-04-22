@@ -31,7 +31,7 @@ is available: true
 floor: Third Floor
 bedrooms: 2
 bathrooms: 1
-available at: 2018-04-01 00:00:00 Z
+available at: 2019-05-01 00:00:00 Z
 ---
 
 2 Bedrooms
