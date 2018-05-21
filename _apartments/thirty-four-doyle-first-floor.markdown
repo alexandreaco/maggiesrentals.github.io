@@ -28,7 +28,7 @@ slideshow:
 - image: "/uploads/IMG_0106.JPG"
   description: 
 building: 34 Doyle Avenue
-is available: true
+is available: false
 floor: First Floor
 bedrooms: 2
 bathrooms: 1
