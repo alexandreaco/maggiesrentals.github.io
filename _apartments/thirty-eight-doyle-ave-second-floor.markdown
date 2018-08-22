@@ -5,19 +5,19 @@ position: 11
 slideshow:
 - image: "/uploads/Spacious%20Kitchen.JPG"
   description: 
-- image: "/uploads/38%20Doyle%20wood%20floor-best.JPG"
+- image: "/uploads/Historic%20Hardwood%20FloorsJPG.JPG"
+  description: Turn of the century hardwood floor
+- image: "/uploads/Kitchen%20.JPG"
   description: 
-- image: "/uploads/38-Doyle-Kitchen.gif"
+- image: "/uploads/Ceiling%20fans%20in%20every%20room.JPG"
   description: 
-- image: "/uploads/38-Doyle-wood-floor-best.gif"
-  description: 
-- image: "/uploads/2014-03-14%2012.52.24-4a31dd.jpg"
-  description: 
-- image: "/uploads/2014-03-14%2012.53.33.jpg"
-  description: 
-- image: "/uploads/2014-03-14%2012.53.54.jpg"
-  description: 
-- image: "/uploads/2014-03-14%2012.56.49-0d7c14.jpg"
+- image: "/uploads/Bedroom%201.JPG"
+  description: Bedroom 1
+- image: "/uploads/Bedroom%202.JPG"
+  description: Bedroom 2
+- image: "/uploads/Bedoom%203.JPG"
+  description: Bedroom 3
+- image: "/uploads/Bathroom%20Vanity%20area.JPG"
   description: 
 building: 38 Doyle Avenue
 is available: true
