@@ -36,7 +36,7 @@ is available: false
 floor: Second Floor
 bedrooms: 3
 bathrooms: 1
-available at: 2018-06-01 00:00:00 Z
+available at: 2018-12-03 00:00:00 Z
 ---
 
 3 Bedrooms
