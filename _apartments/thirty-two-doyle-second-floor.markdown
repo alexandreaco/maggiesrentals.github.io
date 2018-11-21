@@ -32,7 +32,7 @@ slideshow:
 - image: "/uploads/32%232%20back%20bedroom.JPG"
   description: 
 building: 32 Doyle Avenue
-is available: false
+is available: true
 floor: Second Floor
 bedrooms: 3
 bathrooms: 1
