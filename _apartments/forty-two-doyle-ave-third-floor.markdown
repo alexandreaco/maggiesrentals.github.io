@@ -26,11 +26,11 @@ slideshow:
 - image: "/uploads/IMG_1249.jpg"
   description: 
 building: 42 Doyle Avenue
+is available: true
 floor: Third Floor
 bedrooms: 3
 bathrooms: 1
-available at: 2017-02-01 00:00:00 Z
-is available: false
+available at: 2019-06-01 00:00:00 Z
 ---
 
 3 Bedroom
