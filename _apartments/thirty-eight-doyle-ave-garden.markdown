@@ -28,11 +28,11 @@ slideshow:
 - image: "/uploads/IMG_9960.JPG"
   description: 
 building: 38 Doyle Avenue
-is available: false
+is available: true
 floor: Unit 1 (Garden Level)
 bedrooms: 1-2
 bathrooms: 1
-available at: 2018-06-01 00:00:00 Z
+available at: 2019-06-01 00:00:00 Z
 ---
 
 1-2 Bedrooms
