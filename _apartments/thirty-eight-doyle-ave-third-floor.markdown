@@ -14,11 +14,11 @@ slideshow:
 - image: "/uploads/2013%20htc%201999.jpg"
   description: 
 building: 38 Doyle Avenue
+is available: false
 floor: Unit 4 (Third Floor)
 bedrooms: 3
 bathrooms: 1
-available at: 2017-04-15 00:00:00 Z
-is available: false
+available at: 2020-06-01 00:00:00 Z
 ---
 
 3 Bedrooms
