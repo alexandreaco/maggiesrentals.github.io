@@ -32,7 +32,7 @@ is available: false
 floor: First Floor
 bedrooms: 2
 bathrooms: 1
-available at: 2018-06-01 00:00:00 Z
+available at: 2020-07-01 00:00:00 Z
 layout: apartment
 ---
 
