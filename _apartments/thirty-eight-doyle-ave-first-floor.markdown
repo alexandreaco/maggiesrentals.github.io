@@ -20,7 +20,7 @@ is available: false
 floor: Unit 2 (First Floor)
 bedrooms: 3
 bathrooms: 1
-available at: 2017-06-01 00:00:00 Z
+available at: 2020-09-01 00:00:00 Z
 ---
 
 3 Bedrooms
