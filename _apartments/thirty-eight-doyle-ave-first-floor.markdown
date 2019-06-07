@@ -16,7 +16,7 @@ slideshow:
 - image: "/uploads/2014-03-14%2012.56.49.jpg"
   description: 
 building: 38 Doyle Avenue
-is available: false
+is available: true
 floor: Unit 2 (First Floor)
 bedrooms: 3
 bathrooms: 1
