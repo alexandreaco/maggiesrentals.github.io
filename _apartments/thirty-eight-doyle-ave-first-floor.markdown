@@ -28,3 +28,5 @@ available at: 2020-09-01 00:00:00 Z
 Living Room
 Eat-in-Kitchen
 Community Brick Patio
+Off street parking
+Laundry room on site
