@@ -27,15 +27,16 @@ building: 32 Doyle Avenue
 is available: true
 floor: First Floor
 bedrooms: 3
-bathrooms: 1 1/2
-available at: 2019-07-01 00:00:00 Z
+bathrooms: 1
+available at: 2019-09-01 00:00:00 Z
 ---
 
 3 Bedrooms
-1 1/5 Bathrooms
+1 Bathroom
 Dining Room
 Living Room
-Kitchen
+Kitchen - Granite counter
 Front Porch
 Washer/Dryer in Apartment
+Front Porch
 Community Brick Patio
