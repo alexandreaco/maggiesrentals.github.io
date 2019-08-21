@@ -38,5 +38,5 @@ Living Room
 Kitchen - Granite counter
 Front Porch
 Washer/Dryer in Apartment
-Front Porch
 Community Brick Patio
+Off street parking 
