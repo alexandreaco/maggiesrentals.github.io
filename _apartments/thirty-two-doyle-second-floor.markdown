@@ -46,3 +46,4 @@ Dining Room
 Kitchen
 Front Porch
 Community Brick Patio
+Off street parking
