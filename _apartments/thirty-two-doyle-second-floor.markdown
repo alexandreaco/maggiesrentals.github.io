@@ -31,8 +31,8 @@ slideshow:
   description: 
 - image: "/uploads/32%232%20back%20bedroom.JPG"
   description: 
-- description: 
-  image: "/uploads/32%20%232%20doyle%20pdf%20floor%20plan.pdf"
+- image: "/uploads/32%20%232%20doyle%20pdf%20floor%20plan.pdf"
+  description: "[32 #2 doyle pdf floor plan.pdf](/uploads/32%20%232%20doyle%20pdf%20floor%20plan.pdf)"
 building: 32 Doyle Avenue
 is available: true
 floor: Second Floor
