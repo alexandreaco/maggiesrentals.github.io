@@ -41,9 +41,11 @@ slideshow:
   description: 
 - image: "/uploads/28%20%232%20bedroom%202%202.JPG"
   description: 
-- image: 
+- image: "/uploads/28%20%232%20bedroom%202%203.JPG"
   description: 
-- image: 
+- image: "/uploads/28%20%232%20bedroom%202%204.JPG"
+  description: 
+- image: "/uploads/28%20%232%20bathroom%201.JPG"
   description: 
 building: 28 Doyle Avenue
 is available: true
