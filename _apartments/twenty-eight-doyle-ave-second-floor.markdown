@@ -17,6 +17,34 @@ slideshow:
   description: 
 - image: "/uploads/28%20%232%20dining%205.JPG"
   description: 
+- image: "/uploads/28%20%232%20kitchen%201.JPG"
+  description: 
+- image: "/uploads/28%20%232%20kitchen%202.JPG"
+  description: 
+- image: "/uploads/28%20%232%20kitchen%203.JPG"
+  description: 
+- image: "/uploads/28%20%232%20kitchen%204.JPG"
+  description: 
+- image: "/uploads/28%20%232%20kitchen%205.JPG"
+  description: 
+- image: "/uploads/28%20%232%20bedroom%201%201.JPG"
+  description: 
+- image: "/uploads/28%20%232%20bedroom%201%202.JPG"
+  description: 
+- image: "/uploads/28%20%232%20bedroom%201%203.JPG"
+  description: 
+- image: "/uploads/28%20%232%20bedroom%201%204.JPG"
+  description: 
+- image: "/uploads/28%20%232%20bedroom%201%205.JPG"
+  description: 
+- image: "/uploads/28%20%232%20bedroom%202%201.JPG"
+  description: 
+- image: "/uploads/28%20%232%20bedroom%202%202.JPG"
+  description: 
+- image: 
+  description: 
+- image: 
+  description: 
 building: 28 Doyle Avenue
 is available: true
 floor: Second Floor
