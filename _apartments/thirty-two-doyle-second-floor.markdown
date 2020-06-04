@@ -3,33 +3,43 @@ title: 32 Doyle, Second Floor
 date: 2017-01-28 21:15:00 Z
 position: 4
 slideshow:
-- image: "/uploads/32%232%20Kitchen.JPG"
+- image: "/uploads/32%20%232%20balcony%20left.jpg"
   description: 
-- image: "/uploads/32%232%20Kitchen-044bda.JPG"
+- image: "/uploads/32%20%232%20balcony%20right.jpg"
   description: 
-- image: "/uploads/32%232%20Kitchen%20(1).JPG"
+- image: "/uploads/32%20%232%20balcony%20view%201.jpg"
   description: 
-- image: "/uploads/32%232%20Hardwood%20floor.JPG"
+- image: "/uploads/32%20%232%20balcony%20view%202.JPG"
   description: 
-- image: "/uploads/32%232%20Double%20Parlor.JPG"
+- image: "/uploads/32%20%232%20entrance.JPG"
   description: 
-- image: "/uploads/32%232%20Dining%20room.JPG"
+- image: "/uploads/32%20%232%20living%201.JPG"
   description: 
-- image: "/uploads/32%232%20bedroom.JPG"
+- image: "/uploads/32%20%232%20living%202.jpg"
   description: 
-- image: "/uploads/32%232%20Bedroom%20(3).JPG"
+- image: "/uploads/32%20%232%20living%203.jpg"
   description: 
-- image: "/uploads/32%232%20Bedroom%20(2).JPG"
+- image: "/uploads/32%20%232%20living%204.jpg"
   description: 
-- image: "/uploads/32%232%20bedroom%20(1).JPG"
+- image: "/uploads/32%20%232%20dining%201.jpg"
   description: 
-- image: "/uploads/32%232%20Bathroom.JPG"
+- image: "/uploads/32%20%232%20dining%202.jpg"
   description: 
-- image: "/uploads/32%232%20Bathroom%20best%20(1).JPG"
+- image: "/uploads/32%20%232%20dining%203.jpg"
   description: 
-- image: "/uploads/32%232%20Back%20door%20Kitchen.JPG"
+- image: "/uploads/32%20%232%20dining%204.JPG"
   description: 
-- image: "/uploads/32%232%20back%20bedroom.JPG"
+- image: "/uploads/32%20%232%20dining%205.JPG"
+  description: 
+- image: "/uploads/32%20%232%20bathroom%201.jpg"
+  description: 
+- image: "/uploads/32%20%232%20bathroom%202.JPG"
+  description: 
+- image: 
+  description: 
+- image: 
+  description: 
+- image: 
   description: 
 building: 32 Doyle Avenue
 is available: true
