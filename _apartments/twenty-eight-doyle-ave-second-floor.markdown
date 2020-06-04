@@ -64,7 +64,7 @@ available at: 2020-06-01 00:00:00 Z
 ---
 
 3 Bedrooms
-1 1/5 Bathrooms
+1 1/2 Bathrooms
 Living Room
 Eat-in-Kitchen
 Community Brick Patio
