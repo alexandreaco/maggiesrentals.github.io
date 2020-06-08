@@ -43,7 +43,7 @@ slideshow:
   description: 
 - image: "/uploads/32%20%232%20bedroom%201%204-12f0fc.JPG"
   description: 
-- image: "/uploads/32%20%232%20bedroom%203%201-6dd23f.JPG"
+- image: "/uploads/32%20%232%20bedroom%201%205-c56759.JPG"
   description: 
 - image: "/uploads/32%20%232%20kitchen%201-9ccea7.jpg"
   description: 
@@ -73,11 +73,11 @@ slideshow:
   description: 
 - image: "/uploads/32%20%232%20stairs%20back-2af99e.JPG"
   description: 
-- image: "/uploads/32%20%232%20floor%201.JPG"
+- image: "/uploads/IMG_3440.JPG"
   description: 
 - image: "/uploads/32%20%232%20floor%202.jpg"
   description: 
-- image: "/uploads/32%20%232%20sign.JPG"
+- image: "/uploads/Copy%20of%20IMG_3425.JPG"
   description: 
 - image: "/uploads/32%20%232%20Floor%20Plan.jpg"
   description: 
