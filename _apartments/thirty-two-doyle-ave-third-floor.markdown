@@ -57,19 +57,19 @@ slideshow:
   description: 
 - image: "/uploads/32%20%233%20stairs%20back-d6da50.JPG"
   description: 
-- image: "/uploads/32%20%233%20floor.JPG"
+- image: "/uploads/IMG_3440-b08cab.JPG"
   description: 
-- image: "/uploads/32%20%233%20fan.jpg"
+- image: "/uploads/20200226_131352.jpg"
   description: 
-- image: "/uploads/32%20%232%20balcony%20left-a87687.jpg"
+- image: "/uploads/32%20%232%20balcony%20left-898f3c.jpg"
   description: 
-- image: "/uploads/32%20%232%20balcony%20right-93c058.jpg"
+- image: "/uploads/32%20%232%20balcony%20right-1b0f0a.jpg"
   description: 
-- image: "/uploads/32%20%232%20balcony%20view%201-592789.jpg"
+- image: "/uploads/32%20%232%20balcony%20view%201-66d552.jpg"
   description: 
-- image: "/uploads/32%20%233%20balcony%20view%202.JPG"
+- image: "/uploads/32%20%232%20balcony%20view%202-ce676b.JPG"
   description: 
-- image: "/uploads/32%20%233%20sign.JPG"
+- image: "/uploads/Copy%20of%20IMG_3425-e0b188.JPG"
   description: 
 building: 32 Doyle Avenue
 is available: true
