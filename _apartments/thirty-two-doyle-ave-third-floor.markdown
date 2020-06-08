@@ -3,59 +3,59 @@ title: 32 Doyle Ave, Third Floor
 date: 2017-01-28 21:16:00 Z
 position: 5
 slideshow:
-- image: "/uploads/32%20%233%20entrance.JPG"
+- image: "/uploads/32%20%233%20entrance-dd8eff.JPG"
   description: 
-- image: "/uploads/32%20%233%20living%201.JPG"
+- image: "/uploads/32%20%233%20living%201-874f66.JPG"
   description: 
-- image: "/uploads/32%20%233%20living%202.JPG"
+- image: "/uploads/32%20%233%20living%202-f7d383.JPG"
   description: 
-- image: "/uploads/32%20%233%20living%203.JPG"
+- image: "/uploads/32%20%233%20living%203-df51c4.JPG"
   description: 
-- image: "/uploads/32%20%233%20living%204.jpg"
+- image: "/uploads/32%20%233%20living%204-3d3a96.jpg"
   description: 
-- image: "/uploads/32%20%233%20dining%201.jpg"
+- image: "/uploads/32%20%233%20dining%201-d7ff60.jpg"
   description: 
-- image: "/uploads/32%20%233%20dining%202.jpg"
+- image: "/uploads/32%20%233%20dining%202-46ff58.jpg"
   description: 
-- image: "/uploads/32%20%233%20dining%203.jpg"
+- image: "/uploads/32%20%233%20dining%203-02af8c.jpg"
   description: 
-- image: "/uploads/32%20%233%20dining%204.JPG"
+- image: "/uploads/32%20%233%20dining%204-994028.JPG"
   description: 
-- image: "/uploads/32%20%233%20bathroom%201.jpg"
+- image: "/uploads/32%20%233%20bathroom%201-06f4da.jpg"
   description: 
-- image: "/uploads/32%20%233%20bathroom%202.jpg"
+- image: "/uploads/32%20%233%20bathroom%202-10c456.jpg"
   description: 
-- image: "/uploads/32%20%233%20bedroom%201%201.jpg"
+- image: "/uploads/32%20%233%20bedroom%201%201-aa77e7.jpg"
   description: 
-- image: "/uploads/32%20%233%20bedroom%201%202.JPG"
+- image: "/uploads/32%20%233%20bedroom%201%202-dba799.JPG"
   description: 
-- image: "/uploads/32%20%233%20bedroom%201%203.JPG"
+- image: "/uploads/32%20%233%20bedroom%201%203-6a5b6a.JPG"
   description: 
-- image: "/uploads/32%20%233%20bedroom%202%201.jpg"
+- image: "/uploads/32%20%233%20bedroom%202%201-fcfe5e.jpg"
   description: 
-- image: "/uploads/32%20%233%20bedroom%202%202.jpg"
+- image: "/uploads/32%20%233%20bedroom%202%202-ef7fdb.jpg"
   description: 
-- image: "/uploads/32%20%233%20bedroom%203%201.jpg"
+- image: "/uploads/32%20%233%20bedroom%203%201-5db3c8.jpg"
   description: 
-- image: "/uploads/32%20%233%20bedroom%203%202.jpg"
+- image: "/uploads/32%20%233%20bedroom%203%202-28094f.jpg"
   description: 
-- image: "/uploads/32%20%233%20bedroom%203%203.jpg"
+- image: "/uploads/32%20%233%20bedroom%203%203-1d4361.jpg"
   description: 
-- image: "/uploads/32%20%233%20bedroom%203%204.jpg"
+- image: "/uploads/32%20%233%20bedroom%203%204-4a59ec.jpg"
   description: 
-- image: "/uploads/32%20%233%20kitchen%201.jpg"
+- image: "/uploads/32%20%233%20kitchen%201-de1622.jpg"
   description: 
-- image: "/uploads/32%20%233%20kitchen%202.jpg"
+- image: "/uploads/32%20%233%20kitchen%202-d805be.jpg"
   description: 
-- image: "/uploads/32%20%233%20kitchen%203.jpg"
+- image: "/uploads/32%20%233%20kitchen%203-c38095.jpg"
   description: 
-- image: "/uploads/32%20%233%20kitchen%204.jpg"
+- image: "/uploads/32%20%233%20kitchen%204-569ada.jpg"
   description: 
-- image: "/uploads/32%20%233%20kitchen%205.jpg"
+- image: "/uploads/32%20%233%20kitchen%205-68f9a6.jpg"
   description: 
-- image: "/uploads/32%20%233%20stairs%20front.JPG"
+- image: "/uploads/32%20%233%20stairs%20front-603835.JPG"
   description: 
-- image: "/uploads/32%20%233%20stairs%20back.JPG"
+- image: "/uploads/32%20%233%20stairs%20back-d6da50.JPG"
   description: 
 - image: "/uploads/32%20%233%20floor.JPG"
   description: 
