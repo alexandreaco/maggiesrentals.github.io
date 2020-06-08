@@ -75,7 +75,7 @@ slideshow:
   description: 
 - image: "/uploads/IMG_3440.JPG"
   description: 
-- image: "/uploads/32%20%232%20floor%202.jpg"
+- image: "/uploads/20200226_124003.jpg"
   description: 
 - image: "/uploads/Copy%20of%20IMG_3425.JPG"
   description: 
