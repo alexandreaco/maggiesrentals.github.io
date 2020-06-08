@@ -3,55 +3,53 @@ title: 38 Doyle Ave, Unit 2, First Floor
 date: 2017-01-28 21:22:00 Z
 position: 10
 slideshow:
-- image: "/uploads/20200226_120916.jpg"
+- image: "/uploads/20200226_120916-39e87c.jpg"
   description: 
-- image: "/uploads/20200226_120853.jpg"
+- image: "/uploads/20200226_120853-986c19.jpg"
   description: 
-- image: "/uploads/IMG_3371.JPG"
+- image: "/uploads/IMG_3371-17d341.JPG"
   description: 
-- image: "/uploads/Back%20door%2038%232.JPG"
+- image: "/uploads/Back%20door%2038%232-2d910c.JPG"
   description: 
-- image: "/uploads/20200226_120948.jpg"
+- image: "/uploads/20200226_120948-758d95.jpg"
   description: 
-- image: "/uploads/Bathroom%20split%20areas%2038%232.jpg"
+- image: "/uploads/Bathroom%20split%20areas%2038%232-0050b8.jpg"
   description: 
-- image: "/uploads/20200226_121106.jpg"
+- image: "/uploads/20200226_121106-dbd0dd.jpg"
   description: 
-- image: "/uploads/Living%20room%2038%232.JPG"
+- image: "/uploads/Living%20room%2038%232-daca1a.JPG"
   description: 
-- image: "/uploads/20200226_121227.jpg"
+- image: "/uploads/20200226_121227-e2c99c.jpg"
   description: 
-- image: "/uploads/20200226_121407.jpg"
+- image: "/uploads/20200226_121407-bf7d0d.jpg"
   description: 
-- image: "/uploads/20200226_121438.jpg"
+- image: "/uploads/20200226_121438-e7bfea.jpg"
   description: 
-- image: "/uploads/20200226_121413.jpg"
+- image: "/uploads/20200226_121413-9f6070.jpg"
   description: 
-- image: "/uploads/IMG_3389.JPG"
+- image: "/uploads/IMG_3389-141076.JPG"
   description: 
-- image: "/uploads/Front%20door%20&%20coat%20closet%20in%20center%20(open%20doors%20lead%20to%20bedroom%201%20&%202)38%232.JPG"
+- image: "/uploads/Wood%20floor%2038%232-dd3bc0.JPG"
   description: 
-- image: "/uploads/Wood%20floor%2038%232.JPG"
+- image: "/uploads/20200226_121240-2917b1.jpg"
   description: 
-- image: "/uploads/20200226_121240.jpg"
+- image: "/uploads/20200226_121306-729822.jpg"
   description: 
-- image: "/uploads/20200226_121306.jpg"
+- image: "/uploads/20200226_121244-504a7a.jpg"
   description: 
-- image: "/uploads/20200226_121244.jpg"
+- image: "/uploads/20200226_121249-57c051.jpg"
   description: 
-- image: "/uploads/20200226_121249.jpg"
+- image: "/uploads/20200226_121328-22dea8.jpg"
   description: 
-- image: "/uploads/20200226_121328.jpg"
+- image: "/uploads/IMG_3395-5c80b0.JPG"
   description: 
-- image: "/uploads/IMG_3395.JPG"
+- image: "/uploads/B3%20%20-537667.jpg"
   description: 
-- image: "/uploads/B3%20%20.jpg"
+- image: "/uploads/IMG_3406-1a6902.JPG"
   description: 
-- image: "/uploads/IMG_3406.JPG"
+- image: "/uploads/20200226_121158-0399c7.jpg"
   description: 
-- image: "/uploads/20200226_121158.jpg"
-  description: 
-- image: "/uploads/Bedroom%20%232%20closet%2038%232.JPG"
+- image: "/uploads/Bedroom%20%232%20closet%2038%232-8467b7.JPG"
   description: 
 - image: "/uploads/38%20%232%20Floor%20Plan.jpg"
   description: 
