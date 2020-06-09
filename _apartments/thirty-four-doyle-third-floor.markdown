@@ -27,11 +27,11 @@ slideshow:
 - image: "/uploads/Copy%20of%20IMG_0079.JPG"
   description: 
 building: 34 Doyle Avenue
-is available: false
+is available: true
 floor: Third Floor
 bedrooms: 2
 bathrooms: 1
-available at: 2020-05-01 00:00:00 Z
+available at: 2020-12-01 00:00:00 Z
 ---
 
 2 Bedrooms
