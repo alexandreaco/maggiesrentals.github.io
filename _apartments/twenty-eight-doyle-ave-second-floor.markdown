@@ -55,6 +55,22 @@ slideshow:
   description: 
 - image: "/uploads/28%20%232%20bathroom%205-e03933.JPG"
   description: 
+- image: "/uploads/IMG_3762.JPG"
+  description: 
+- image: "/uploads/IMG_3951.JPG"
+  description: 
+- image: "/uploads/IMG_3923-d40f99.JPG"
+  description: 
+- image: "/uploads/IMG_3868.JPG"
+  description: 
+- image: "/uploads/IMG_3876.JPG"
+  description: 
+- image: "/uploads/IMG_3933.JPG"
+  description: 
+- image: "/uploads/IMG_3965.JPG"
+  description: 
+- image: "/uploads/IMG_3976.JPG"
+  description: 
 building: 28 Doyle Avenue
 is available: true
 floor: Second Floor
