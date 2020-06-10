@@ -71,6 +71,18 @@ slideshow:
   description: 
 - image: "/uploads/Copy%20of%20IMG_3425-e0b188.JPG"
   description: 
+- image: "/uploads/IMG_3777-f363d5.JPG"
+  description: 
+- image: "/uploads/IMG_3780-286eed.JPG"
+  description: 
+- image: "/uploads/IMG_3861-6ee26e.JPG"
+  description: 
+- image: undefined
+  description: 
+- image: undefined
+  description: 
+- image: 
+  description: 
 building: 32 Doyle Avenue
 is available: true
 floor: Third Floor
