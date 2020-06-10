@@ -33,6 +33,26 @@ slideshow:
   description: 
 - image: "/uploads/2014-03-14%2012.33.36.jpg"
   description: 
+- image: "/uploads/IMG_3762-2017c8.JPG"
+  description: 
+- image: "/uploads/IMG_3951-a55f26.JPG"
+  description: 
+- image: "/uploads/IMG_3923-2e551c.JPG"
+  description: 
+- image: "/uploads/IMG_3937.JPG"
+  description: 
+- image: "/uploads/IMG_3868-b5471a.JPG"
+  description: 
+- image: "/uploads/IMG_3876-1afa6b.JPG"
+  description: 
+- image: "/uploads/IMG_3929-f5274f.JPG"
+  description: 
+- image: "/uploads/IMG_3933-2b360d.JPG"
+  description: 
+- image: "/uploads/IMG_3965-b5276f.JPG"
+  description: 
+- image: "/uploads/IMG_3976-2c9f10.JPG"
+  description: 
 building: 28 Doyle Avenue
 is available: true
 floor: Third Floor
