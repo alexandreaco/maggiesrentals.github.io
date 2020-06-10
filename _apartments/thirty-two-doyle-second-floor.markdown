@@ -83,6 +83,24 @@ slideshow:
   description: 
 - image: "/uploads/32%20%232%20Floor%20Plan.jpg"
   description: 
+- image: "/uploads/IMG_3777.JPG"
+  description: 
+- image: "/uploads/IMG_3780.JPG"
+  description: 
+- image: "/uploads/IMG_3861.JPG"
+  description: 
+- image: "/uploads/IMG_3866.JPG"
+  description: 
+- image: "/uploads/IMG_3868-8b212b.JPG"
+  description: 
+- image: "/uploads/IMG_3876-d525e3.JPG"
+  description: 
+- image: "/uploads/IMG_3937-92a98a.JPG"
+  description: 
+- image: "/uploads/IMG_3965-3e07bb.JPG"
+  description: 
+- image: "/uploads/IMG_3976-2ba5c5.JPG"
+  description: 
 building: 32 Doyle Avenue
 is available: true
 floor: Second Floor
