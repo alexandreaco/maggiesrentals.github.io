@@ -11,8 +11,6 @@ slideshow:
   description: 
 - image: "/uploads/32%20%233%20living%203-df51c4.JPG"
   description: 
-- image: "/uploads/32%20%233%20living%204-3d3a96.jpg"
-  description: 
 - image: "/uploads/32%20%233%20dining%201-d7ff60.jpg"
   description: 
 - image: "/uploads/32%20%233%20dining%202-46ff58.jpg"
