@@ -65,7 +65,7 @@ slideshow:
   description: 
 - image: "/uploads/IMG_3440.JPG"
   description: 
-- image: "/uploads/20200226_131352.jpg"
+- image: "/uploads/32-3-fan.jpg"
   description: 
 - image: "/uploads/University-marketplace-sign.JPG"
   description: 
