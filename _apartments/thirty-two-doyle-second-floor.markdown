@@ -41,7 +41,7 @@ slideshow:
   description: 
 - image: "/uploads/32%20%232%20bedroom%201%203-b9ed3e.JPG"
   description: 
-- image: "/uploads/32%20%232%20bedroom%201%204-3f2a0c.JPG"
+- image: "/uploads/32%20%232%20bedroom%201%204.JPG"
   description: 
 - image: "/uploads/32%20%232%20bedroom%201%205-c56759.JPG"
   description: 
