@@ -61,9 +61,9 @@ slideshow:
   description: 
 - image: "/uploads/32%20%232%20balcony%20left-898f3c.jpg"
   description: 
-- image: "/uploads/32%20%232%20balcony%20right-1b0f0a.jpg"
+- image: "/uploads/32%20%232%20balcony%20right-2567fa.jpg"
   description: 
-- image: "/uploads/32%20%232%20balcony%20view%202-ce676b.JPG"
+- image: "/uploads/32%20%232%20balcony%20view%201-48ab06.JPG"
   description: 
 - image: "/uploads/IMG_3777-f363d5.JPG"
   description: 
