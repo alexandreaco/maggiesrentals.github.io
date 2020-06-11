@@ -19,6 +19,22 @@ slideshow:
   description: 
 - image: "/uploads/P5040027.JPG"
   description: 
+- image: "/uploads/IMG_3762.JPG"
+  description: 
+- image: "/uploads/IMG_3951.JPG"
+  description: 
+- image: "/uploads/IMG_3923.JPG"
+  description: 
+- image: "/uploads/IMG_3868.JPG"
+  description: 
+- image: "/uploads/IMG_3876.JPG"
+  description: 
+- image: "/uploads/IMG_3933.JPG"
+  description: 
+- image: "/uploads/IMG_3965.JPG"
+  description: 
+- image: "/uploads/IMG_3976.JPG"
+  description: 
 building: 28 Doyle Avenue
 is available: false
 floor: First Floor

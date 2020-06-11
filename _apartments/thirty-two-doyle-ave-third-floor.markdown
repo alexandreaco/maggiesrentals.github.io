@@ -3,6 +3,14 @@ title: 32 Doyle Ave, Third Floor
 date: 2017-01-28 21:16:00 Z
 position: 5
 slideshow:
+- image: "/uploads/32%20%232%20balcony%20left-898f3c.jpg"
+  description: 
+- image: "/uploads/32%20%232%20balcony%20right-2567fa.jpg"
+  description: 
+- image: "/uploads/32%20%232%20balcony%20view%201-48ab06.jpg"
+  description: 
+- image: "/uploads/32%20%232%20balcony%20view%202-30fc4a.JPG"
+  description: 
 - image: "/uploads/32%20%233%20entrance-dd8eff.JPG"
   description: 
 - image: "/uploads/32%20%233%20living%201-874f66.JPG"
@@ -55,27 +63,31 @@ slideshow:
   description: 
 - image: "/uploads/32%20%233%20stairs%20back-d6da50.JPG"
   description: 
-- image: "/uploads/IMG_3440-b08cab.JPG"
+- image: "/uploads/IMG_3440.JPG"
   description: 
 - image: "/uploads/20200226_131352.jpg"
   description: 
-- image: "/uploads/32%20%232%20balcony%20left-898f3c.jpg"
+- image: "/uploads/University-marketplace-sign.JPG"
   description: 
-- image: "/uploads/32%20%232%20balcony%20right-2567fa.jpg"
+- image: "/uploads/32%20%232%20Floor%20Plan.jpg"
   description: 
-- image: "/uploads/32%20%232%20balcony%20view%201-48ab06.JPG"
+- image: "/uploads/IMG_3777.JPG"
   description: 
-- image: "/uploads/IMG_3777-f363d5.JPG"
+- image: "/uploads/IMG_3780.JPG"
   description: 
-- image: "/uploads/IMG_3780-286eed.JPG"
+- image: "/uploads/IMG_3861.JPG"
   description: 
-- image: "/uploads/IMG_3861-6ee26e.JPG"
+- image: "/uploads/IMG_3866.JPG"
   description: 
-- image: undefined
+- image: "/uploads/IMG_3868.JPG"
   description: 
-- image: undefined
+- image: "/uploads/IMG_3876.JPG"
   description: 
-- image: 
+- image: "/uploads/IMG_3937.JPG"
+  description: 
+- image: "/uploads/IMG_3965.JPG"
+  description: 
+- image: "/uploads/IMG_3976.JPG"
   description: 
 building: 32 Doyle Avenue
 is available: true
@@ -90,5 +102,6 @@ available at: 2020-06-01 00:00:00 Z
 Living Room
 Dining Room
 Kitchen
+Front Porch
 Community Brick Patio
 Off street parking

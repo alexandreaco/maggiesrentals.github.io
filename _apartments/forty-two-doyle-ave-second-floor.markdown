@@ -23,6 +23,22 @@ slideshow:
   description: 
 - image: "/uploads/IMG_5914-93ae97.JPG"
   description: 
+- image: "/uploads/IMG_3803.JPG"
+  description: 
+- image: "/uploads/IMG_3833.JPG"
+  description: 
+- image: "/uploads/IMG_3841.JPG"
+  description: 
+- image: "/uploads/IMG_3868.JPG"
+  description: 
+- image: "/uploads/IMG_3876.JPG"
+  description: 
+- image: "/uploads/IMG_3937.JPG"
+  description: 
+- image: "/uploads/IMG_3965.JPG"
+  description: 
+- image: "/uploads/IMG_3976.JPG"
+  description: 
 building: 42 Doyle Avenue
 is available: false
 floor: Second Floor

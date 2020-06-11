@@ -23,6 +23,26 @@ slideshow:
   description: 
 - image: "/uploads/IMG_9927.JPG"
   description: 
+- image: "/uploads/IMG_3440.JPG"
+  description: 
+- image: "/uploads/IMG_3777.JPG"
+  description: 
+- image: "/uploads/IMG_3780.JPG"
+  description: 
+- image: "/uploads/IMG_3861.JPG"
+  description: 
+- image: "/uploads/IMG_3866.JPG"
+  description: 
+- image: "/uploads/IMG_3868.JPG"
+  description: 
+- image: "/uploads/IMG_3876.JPG"
+  description: 
+- image: "/uploads/IMG_3937.JPG"
+  description: 
+- image: "/uploads/IMG_3965.JPG"
+  description: 
+- image: "/uploads/IMG_3976.JPG"
+  description: 
 building: 32 Doyle Avenue
 is available: false
 floor: First Floor

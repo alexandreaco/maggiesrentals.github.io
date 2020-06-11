@@ -13,6 +13,24 @@ slideshow:
   description: 
 - image: "/uploads/2013%20htc%201999.jpg"
   description: 
+- image: "/uploads/IMG_3795.JPG"
+  description: 
+- image: "/uploads/IMG_3758.JPG"
+  description: 
+- image: "/uploads/IMG_3805.JPG"
+  description: 
+- image: "/uploads/IMG_3839.JPG"
+  description: 
+- image: "/uploads/IMG_3868.JPG"
+  description: 
+- image: "/uploads/IMG_3876.JPG"
+  description: 
+- image: "/uploads/IMG_3937.JPG"
+  description: 
+- image: "/uploads/IMG_3965.JPG"
+  description: 
+- image: "/uploads/IMG_3976.JPG"
+  description: 
 building: 38 Doyle Avenue
 is available: false
 floor: Unit 4 (Third Floor)

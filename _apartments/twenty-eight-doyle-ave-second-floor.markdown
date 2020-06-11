@@ -59,7 +59,7 @@ slideshow:
   description: 
 - image: "/uploads/IMG_3951.JPG"
   description: 
-- image: "/uploads/IMG_3923-d40f99.JPG"
+- image: "/uploads/IMG_3923.JPG"
   description: 
 - image: "/uploads/IMG_3868.JPG"
   description: 

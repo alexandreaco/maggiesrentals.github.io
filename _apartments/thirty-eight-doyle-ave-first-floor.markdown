@@ -3,55 +3,73 @@ title: 38 Doyle Ave, Unit 2, First Floor
 date: 2017-01-28 21:22:00 Z
 position: 10
 slideshow:
-- image: "/uploads/20200226_120916-39e87c.jpg"
+- image: "/uploads/38-2-kitchen-1.jpg"
   description: 
-- image: "/uploads/20200226_120853-986c19.jpg"
+- image: "/uploads/38-2-kitchen-2.jpg"
   description: 
-- image: "/uploads/IMG_3371-17d341.JPG"
+- image: "/uploads/38-2-kitchen-3.JPG"
   description: 
-- image: "/uploads/Back%20door%2038%232-2d910c.JPG"
+- image: "/uploads/38-2-bathroom-1.JPG"
   description: 
-- image: "/uploads/20200226_120948-758d95.jpg"
+- image: "/uploads/38-2-bathroom-2.jpg"
   description: 
-- image: "/uploads/Bathroom%20split%20areas%2038%232-0050b8.jpg"
+- image: "/uploads/38-2-bathroom-3.jpg"
   description: 
-- image: "/uploads/20200226_121106-dbd0dd.jpg"
+- image: "/uploads/38-2-bathroom-4.jpg"
   description: 
-- image: "/uploads/Living%20room%2038%232-daca1a.JPG"
+- image: "/uploads/38-2-livingroom-1.JPG"
   description: 
-- image: "/uploads/20200226_121227-e2c99c.jpg"
+- image: "/uploads/38-2-livingroom-2.jpg"
   description: 
-- image: "/uploads/20200226_121407-bf7d0d.jpg"
+- image: "/uploads/38-2-livingroom-3.jpg"
   description: 
-- image: "/uploads/20200226_121438-e7bfea.jpg"
+- image: "/uploads/38-2-livingroom-4.jpg"
   description: 
-- image: "/uploads/20200226_121413-9f6070.jpg"
+- image: "/uploads/38-2-livingroom-5.jpg"
   description: 
-- image: "/uploads/IMG_3389-141076.JPG"
+- image: "/uploads/38-2-livingroom-6.JPG"
   description: 
-- image: "/uploads/Wood%20floor%2038%232-dd3bc0.JPG"
+- image: "/uploads/38-2-flooring.JPG"
   description: 
-- image: "/uploads/20200226_121240-2917b1.jpg"
+- image: "/uploads/38-2-bedroom-3-1.jpg"
   description: 
-- image: "/uploads/20200226_121306-729822.jpg"
+- image: "/uploads/38-2-bedroom-3-2.jpg"
   description: 
-- image: "/uploads/20200226_121244-504a7a.jpg"
+- image: "/uploads/38-2-bedroom-3-3.jpg"
   description: 
-- image: "/uploads/20200226_121249-57c051.jpg"
+- image: "/uploads/38-2-bedroom-3-4.jpg"
   description: 
-- image: "/uploads/20200226_121328-22dea8.jpg"
+- image: "/uploads/38-2-bedroom-3-5.jpg"
   description: 
-- image: "/uploads/IMG_3395-5c80b0.JPG"
+- image: "/uploads/38-2-bedroom-3-6.JPG"
   description: 
-- image: "/uploads/B3%20%20-537667.jpg"
+- image: "/uploads/38-2-bedroom-1-1.jpg"
   description: 
-- image: "/uploads/IMG_3406-1a6902.JPG"
+- image: "/uploads/38-2-bedroom-1-2.JPG"
   description: 
-- image: "/uploads/20200226_121158-0399c7.jpg"
+- image: "/uploads/38-2-bedroom-1-3.jpg"
   description: 
-- image: "/uploads/Bedroom%20%232%20closet%2038%232-8467b7.JPG"
+- image: "/uploads/38-2-bedroom-2-1.JPG"
   description: 
-- image: "/uploads/38%20%232%20Floor%20Plan.jpg"
+- image: "/uploads/38-2-floorplan.jpg"
+  description: 
+- image: "/uploads/IMG_3795.JPG"
+  description: 
+- image: "/uploads/IMG_3758.JPG"
+  description: 
+- image: "/uploads/IMG_3805.JPG"
+  description: 
+- image: "/uploads/IMG_3839.JPG"
+  description: 
+- image: "/uploads/IMG_3868.JPG"
+  description: 
+- image: "/uploads/IMG_3876.JPG"
+  description: 
+- image: "/uploads/IMG_3937.JPG"
+  description: 
+- image: "/uploads/IMG_3965.JPG"
+  description: 
+- image: "/uploads/IMG_3976.JPG"
   description: 
 building: 38 Doyle Avenue
 is available: true

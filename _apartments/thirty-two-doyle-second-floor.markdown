@@ -79,7 +79,7 @@ slideshow:
   description: 
 - image: "/uploads/Copy%20of%2020200226_125322.jpg"
   description: 
-- image: "/uploads/Copy%20of%20IMG_3425.JPG"
+- image: "/uploads/University-marketplace-sign.JPG"
   description: 
 - image: "/uploads/32%20%232%20Floor%20Plan.jpg"
   description: 
@@ -91,15 +91,15 @@ slideshow:
   description: 
 - image: "/uploads/IMG_3866.JPG"
   description: 
-- image: "/uploads/IMG_3868-8b212b.JPG"
+- image: "/uploads/IMG_3868.JPG"
   description: 
-- image: "/uploads/IMG_3876-d525e3.JPG"
+- image: "/uploads/IMG_3876.JPG"
   description: 
-- image: "/uploads/IMG_3937-92a98a.JPG"
+- image: "/uploads/IMG_3937.JPG"
   description: 
-- image: "/uploads/IMG_3965-3e07bb.JPG"
+- image: "/uploads/IMG_3965.JPG"
   description: 
-- image: "/uploads/IMG_3976-2ba5c5.JPG"
+- image: "/uploads/IMG_3976.JPG"
   description: 
 building: 32 Doyle Avenue
 is available: true

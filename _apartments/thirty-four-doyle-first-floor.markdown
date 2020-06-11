@@ -27,6 +27,22 @@ slideshow:
   description: 
 - image: "/uploads/IMG_0106.JPG"
   description: 
+- image: "/uploads/IMG_3885.JPG"
+  description: 
+- image: "/uploads/IMG_3958.JPG"
+  description: 
+- image: "/uploads/IMG_3912.JPG"
+  description: 
+- image: "/uploads/IMG_3868.JPG"
+  description: 
+- image: "/uploads/IMG_3876.JPG"
+  description: 
+- image: "/uploads/IMG_3937.JPG"
+  description: 
+- image: "/uploads/IMG_3965.JPG"
+  description: 
+- image: "/uploads/IMG_3976.JPG"
+  description: 
 building: 34 Doyle Avenue
 is available: false
 floor: First Floor
