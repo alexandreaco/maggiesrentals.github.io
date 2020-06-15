@@ -3,11 +3,11 @@ title: 34 Doyle, Second Floor
 date: 2017-01-28 20:24:00 Z
 position: 7
 slideshow:
-- image: "/uploads/2013%20htc%201976.jpg"
+- image: "/uploads/34-2-kitchen-1.jpg"
   description: 
-- image: "/uploads/2013%20htc%201977.jpg"
+- image: "/uploads/34-2-bathroom-1.jpg"
   description: 
-- image: "/uploads/Copy%20of%20IMG_0057.JPG"
+- image: "/uploads/34-2-livingroom-1.JPG"
   description: 
 - image: "/uploads/Copy%20of%20IMG_0058.JPG"
   description: 
