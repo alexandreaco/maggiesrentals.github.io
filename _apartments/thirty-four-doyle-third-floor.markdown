@@ -2,27 +2,27 @@
 title: 34 Doyle, Third Floor
 position: 8
 slideshow:
-- image: "/uploads/2013%20htc%201976-53c45f.jpg"
+- image: "/uploads/2013%20htc%201976.jpg"
   description: 
-- image: "/uploads/2013%20htc%201977-3929c1.jpg"
+- image: "/uploads/2013%20htc%201977.jpg"
   description: 
-- image: "/uploads/Copy%20of%20IMG_0057-63e3b1.JPG"
+- image: "/uploads/34-2-livingroom-1.JPG"
   description: 
-- image: "/uploads/Copy%20of%20IMG_0058-97e64a.JPG"
+- image: "/uploads/Copy%20of%20IMG_0058.JPG"
   description: 
-- image: "/uploads/Copy%20of%20IMG_0059-5ae1f2.JPG"
+- image: "/uploads/Copy%20of%20IMG_0059.JPG"
   description: 
-- image: "/uploads/Copy%20of%20IMG_0062-5c69a7.JPG"
+- image: "/uploads/Copy%20of%20IMG_0062.JPG"
   description: 
-- image: "/uploads/Copy%20of%20IMG_0066-96ae3d.JPG"
+- image: "/uploads/Copy%20of%20IMG_0066.JPG"
   description: 
-- image: "/uploads/Copy%20of%20IMG_0070-9817a3.JPG"
+- image: "/uploads/Copy%20of%20IMG_0070.JPG"
   description: 
-- image: "/uploads/Copy%20of%20IMG_0073-a50b98.JPG"
+- image: "/uploads/Copy%20of%20IMG_0073.JPG"
   description: 
-- image: "/uploads/Copy%20of%20IMG_0074-72e2dc.JPG"
+- image: "/uploads/Copy%20of%20IMG_0074.JPG"
   description: 
-- image: "/uploads/Copy%20of%20IMG_0078-aa25bb.JPG"
+- image: "/uploads/Copy%20of%20IMG_0078.JPG"
   description: 
 - image: "/uploads/Copy%20of%20IMG_0079.JPG"
   description: 
