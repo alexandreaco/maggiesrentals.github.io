@@ -25,8 +25,6 @@ slideshow:
   description: 
 - image: "/uploads/IMG_0633.JPG"
   description: 
-- image: "/uploads/IMG_9960.JPG"
-  description: 
 - image: "/uploads/IMG_3795.JPG"
   description: 
 - image: "/uploads/IMG_3758.JPG"
