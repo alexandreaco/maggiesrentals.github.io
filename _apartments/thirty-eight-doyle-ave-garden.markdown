@@ -51,7 +51,7 @@ bathrooms: 1
 available at: 2020-07-01 00:00:00 Z
 ---
 
-1-2 Bedrooms
+1 Bedrooms
 1 Bathroom
 Living Room
 Eat-in-Kitchen
