@@ -64,9 +64,9 @@ slideshow:
 - image: "/uploads/28-2-dining-painted-2.JPG"
   description: 
 - image: "/uploads/28-2-dining-painted-3.JPG"
-  description:
-- image: "28-2-Floor-Plan.jpg"
-  description:
+  description: 
+- image: 28-2-Floor-Plan.jpg
+  description: 
 - image: "/uploads/IMG_3762.JPG"
   description: 
 - image: "/uploads/IMG_3951.JPG"
