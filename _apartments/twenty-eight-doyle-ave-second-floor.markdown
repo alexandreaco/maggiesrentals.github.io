@@ -55,16 +55,18 @@ slideshow:
   description: 
 - image: "/uploads/28%20%232%20bathroom%205-e03933.JPG"
   description: 
-- image: "/uploads/28-2-bathroom"
+- image: "/uploads/28-2-bathroom.JPG"
   description: 
-- image: "/uploads/28-2-living-painted"
+- image: "/uploads/28-2-living-painted.JPG"
   description: 
-- image: "/uploads/28-2-dining-painted-1"
+- image: "/uploads/28-2-dining-painted-1.JPG"
   description: 
-- image: "/uploads/28-2-dining-painted-2"
+- image: "/uploads/28-2-dining-painted-2.JPG"
   description: 
-- image: "/uploads/28-2-dining-painted-3"
-  description: 
+- image: "/uploads/28-2-dining-painted-3.JPG"
+  description:
+- image: "28-2-Floor-Plan.jpg"
+  description:
 - image: "/uploads/IMG_3762.JPG"
   description: 
 - image: "/uploads/IMG_3951.JPG"
