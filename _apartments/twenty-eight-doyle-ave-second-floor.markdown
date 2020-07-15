@@ -3,67 +3,98 @@ title: 28 Doyle Ave, Second Floor
 date: 2017-01-28 21:07:00 Z
 position: 1
 slideshow:
-- image: "/uploads/28%20%232%20living%201-b1ade0.JPG"
-  description: 
-- image: "/uploads/28%20%232%20living%202-01ee8a.JPG"
-  description: 
-- image: "/uploads/28%20%232%20dining%201-0668d4.jpg"
-  description: 
-- image: "/uploads/28%20%232%20dining%202-0578ac.JPG"
-  description: 
-- image: "/uploads/28%20%232%20dining%203-24686e.JPG"
-  description: 
-- image: "/uploads/28%20%232%20dining%204-9b021f.JPG"
-  description: 
-- image: "/uploads/28%20%232%20dining%205-5362d9.JPG"
-  description: 
-- image: "/uploads/28%20%232%20kitchen%201-42991d.JPG"
-  description: 
-- image: "/uploads/28%20%232%20kitchen%202-44ca89.JPG"
-  description: 
-- image: "/uploads/28%20%232%20kitchen%203-a96b0f.JPG"
-  description: 
-- image: "/uploads/28%20%232%20kitchen%204-8aaf9f.JPG"
-  description: 
-- image: "/uploads/28%20%232%20kitchen%205-d9977a.JPG"
-  description: 
-- image: "/uploads/28%20%232%20bedroom%201%201-26b9fb.JPG"
-  description: 
-- image: "/uploads/28%20%232%20bedroom%201%202-5fc19a.JPG"
-  description: 
-- image: "/uploads/28%20%232%20bedroom%201%203-7dd022.JPG"
-  description: 
-- image: "/uploads/28%20%232%20bedroom%201%204-69fce4.JPG"
-  description: 
-- image: "/uploads/28%20%232%20bedroom%201%205-5b13a8.JPG"
-  description: 
-- image: "/uploads/28%20%232%20bedroom%202%201-cd6937.JPG"
-  description: 
-- image: "/uploads/28%20%232%20bedroom%202%202-f89053.JPG"
-  description: 
-- image: "/uploads/28%20%232%20bedroom%202%203-743be3.JPG"
-  description: 
-- image: "/uploads/28%20%232%20bedroom%202%204-229090.JPG"
-  description: 
-- image: "/uploads/28%20%232%20bathroom%201-c3c248.JPG"
-  description: 
-- image: "/uploads/28%20%232%20bathroom%202-6bb268.JPG"
-  description: 
-- image: "/uploads/28%20%232%20bathroom%203-54a41d.JPG"
-  description: 
-- image: "/uploads/28%20%232%20bathroom%204-2bcd86.JPG"
-  description: 
-- image: "/uploads/28%20%232%20bathroom%205-e03933.JPG"
-  description: 
-- image: "/uploads/28-2-bathroom.JPG"
-  description: 
-- image: "/uploads/28-2-living-painted.JPG"
-  description: 
-- image: "/uploads/28-2-dining-painted-1.JPG"
-  description: 
-- image: "/uploads/28-2-dining-painted-2.JPG"
-  description: 
-- image: "/uploads/28-2-dining-painted-3.JPG"
+
+- image: "28-2-1.JPG"
+  description:
+- image: "28-2-2.JPG"
+  description:
+- image: "28-2-3.JPG"
+  description:
+- image: "28-2-4.JPG"
+  description:
+- image: "28-2-5.JPG"
+  description:
+- image: "28-2-6.JPG"
+  description:
+- image: "28-2-7.JPG"
+  description:
+- image: "28-2-8.JPG"
+  description:
+- image: "28-2-9.JPG"
+  description:
+- image: "28-2-10.JPG"
+  description:
+- image: "28-2-11.JPG"
+  description:
+- image: "28-2-12.JPG"
+  description:
+- image: "28-2-13.JPG"
+  description:
+- image: "28-2-14.JPG"
+  description:
+- image: "28-2-15.JPG"
+  description:
+- image: "28-2-16.JPG"
+  description:
+- image: "28-2-17.JPG"
+  description:
+- image: "28-2-18.JPG"
+  description:
+- image: "28-2-19.JPG"
+  description:
+- image: "28-2-20.JPG"
+  description:
+- image: "28-2-21.JPG"
+  description:
+- image: "28-2-22.JPG"
+  description:
+- image: "28-2-23.JPG"
+  description:
+- image: "28-2-24.JPG"
+  description:
+- image: "28-2-25.JPG"
+  description:
+- image: "28-2-26.JPG"
+  description:
+- image: "28-2-27.JPG"
+  description:
+- image: "28-2-28.JPG"
+  description:
+- image: "28-2-29.JPG"
+  description:
+- image: "28-2-30.JPG"
+  description:
+- image: "28-2-31.JPG"
+  description:
+- image: "28-2-32.JPG"
+  description:
+- image: "28-2-33.JPG"
+  description:
+- image: "28-2-34.JPG"
+  description:
+- image: "28-2-35.JPG"
+  description:
+- image: "28-2-36.JPG"
+  description:
+- image: "28-2-37.JPG"
+  description:
+- image: "28-2-38.JPG"
+  description:
+- image: "28-2-39.JPG"
+  description:
+- image: "28-2-40.JPG"
+  description:
+- image: "28-2-41.JPG"
+  description:
+- image: "28-2-42.JPG"
+  description:
+- image: "28-2-43.JPG"
+  description:
+- image: "28-2-44.JPG"
+  description:
+- image: "28-2-45.JPG"
+  description:
+- image: "28-2-46.JPG"
   description:
 - image: "28-2-Floor-Plan.jpg"
   description:
