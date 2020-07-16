@@ -38,7 +38,7 @@ slideshow:
 - image: "/uploads/38-1-17.JPG"
   description: 
 - image: "/uploads/38-1-18.JPG"
-  description:  
+  description: 
 - image: "/uploads/IMG_3795.JPG"
   description: 
 - image: "/uploads/IMG_3758.JPG"

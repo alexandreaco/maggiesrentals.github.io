@@ -3,7 +3,6 @@ title: 28 Doyle, Third Floor
 date: 2017-01-28 21:08:00 Z
 position: 2
 slideshow:
-
 - image: "/uploads/28-3-1.JPG"
   description: 
 - image: "/uploads/28-3-2.JPG"
