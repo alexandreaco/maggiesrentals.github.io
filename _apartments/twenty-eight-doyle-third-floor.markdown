@@ -3,35 +3,82 @@ title: 28 Doyle, Third Floor
 date: 2017-01-28 21:08:00 Z
 position: 2
 slideshow:
-- image: "/uploads/IMG_4261.JPG"
+
+- image: "/uploads/28-3-1.JPG"
   description: 
-- image: "/uploads/IMG_4258.JPG"
+- image: "/uploads/28-3-2.JPG"
   description: 
-- image: "/uploads/IMG_4260.JPG"
+- image: "/uploads/28-3-3.JPG"
   description: 
-- image: "/uploads/IMG_4269.JPG"
+- image: "/uploads/28-3-4.JPG"
   description: 
-- image: "/uploads/IMG_4265.JPG"
+- image: "/uploads/28-3-5.JPG"
   description: 
-- image: "/uploads/IMG_4273.JPG"
+- image: "/uploads/28-3-6.JPG"
   description: 
-- image: "/uploads/IMG_4253.JPG"
+- image: "/uploads/28-3-7.JPG"
   description: 
-- image: "/uploads/IMG_4256.JPG"
+- image: "/uploads/28-3-8.JPG"
   description: 
-- image: "/uploads/IMG_4255.JPG"
+- image: "/uploads/28-3-9.JPG"
   description: 
-- image: "/uploads/IMG_4256-a4932e.JPG"
+- image: "/uploads/28-3-10.JPG"
   description: 
-- image: "/uploads/2014-03-14%2012.38.23.jpg"
+- image: "/uploads/28-3-11.JPG"
   description: 
-- image: "/uploads/2014-03-14%2012.36.28.jpg"
+- image: "/uploads/28-3-12.JPG"
   description: 
-- image: "/uploads/2014-03-14%2012.36.19.jpg"
+- image: "/uploads/28-3-13.JPG"
   description: 
-- image: "/uploads/2014-03-14%2012.37.36.jpg"
+- image: "/uploads/28-3-14.JPG"
   description: 
-- image: "/uploads/2014-03-14%2012.33.36.jpg"
+- image: "/uploads/28-3-15.JPG"
+  description: 
+- image: "/uploads/28-3-16.JPG"
+  description: 
+- image: "/uploads/28-3-17.JPG"
+  description: 
+- image: "/uploads/28-3-18.JPG"
+  description: 
+- image: "/uploads/28-3-19.JPG"
+  description: 
+- image: "/uploads/28-3-20.JPG"
+  description: 
+- image: "/uploads/28-3-21.JPG"
+  description: 
+- image: "/uploads/28-3-22.JPG"
+  description: 
+- image: "/uploads/28-3-23.JPG"
+  description: 
+- image: "/uploads/28-3-24.JPG"
+  description: 
+- image: "/uploads/28-3-25.JPG"
+  description: 
+- image: "/uploads/28-3-26.JPG"
+  description: 
+- image: "/uploads/28-3-27.JPG"
+  description: 
+- image: "/uploads/28-3-28.JPG"
+  description: 
+- image: "/uploads/28-3-29.JPG"
+  description: 
+- image: "/uploads/28-3-30.JPG"
+  description: 
+- image: "/uploads/28-3-31.JPG"
+  description: 
+- image: "/uploads/28-3-32.JPG"
+  description: 
+- image: "/uploads/28-3-33.JPG"
+  description: 
+- image: "/uploads/28-3-34.JPG"
+  description: 
+- image: "/uploads/28-3-35.JPG"
+  description: 
+- image: "/uploads/28-3-36.JPG"
+  description: 
+- image: "/uploads/28-3-37.JPG"
+  description: 
+- image: "/uploads/28-3-38.JPG"
   description: 
 - image: "/uploads/IMG_3762.JPG"
   description: 
