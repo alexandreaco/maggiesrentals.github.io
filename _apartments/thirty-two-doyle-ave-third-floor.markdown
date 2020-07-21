@@ -90,7 +90,7 @@ slideshow:
 - image: "/uploads/IMG_3976.JPG"
   description: 
 building: 32 Doyle Avenue
-is available: true
+is available: false
 floor: Third Floor
 bedrooms: 3
 bathrooms: 1
