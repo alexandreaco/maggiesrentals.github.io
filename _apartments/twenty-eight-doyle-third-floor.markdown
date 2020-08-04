@@ -15,6 +15,8 @@ slideshow:
   description: 
 - image: "/uploads/28-3-6.JPG"
   description: 
+- image: "/uploads/28-3-20.JPG"
+  description: 
 - image: "/uploads/28-3-7.JPG"
   description: 
 - image: "/uploads/28-3-8.JPG"
@@ -40,8 +42,6 @@ slideshow:
 - image: "/uploads/28-3-18.JPG"
   description: 
 - image: "/uploads/28-3-19.JPG"
-  description: 
-- image: "/uploads/28-3-20.JPG"
   description: 
 - image: "/uploads/IMG_3762.JPG"
   description: 
