@@ -43,6 +43,8 @@ slideshow:
   description: 
 - image: "/uploads/28-3-19.JPG"
   description: 
+- image: "/uploads/28-3-20.JPG"
+  description: 
 - image: "/uploads/IMG_3762.JPG"
   description: 
 - image: "/uploads/IMG_3951.JPG"
