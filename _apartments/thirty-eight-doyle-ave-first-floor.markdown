@@ -3,8 +3,6 @@ title: 38 Doyle Ave, Unit 2, First Floor
 date: 2017-01-28 21:22:00 Z
 position: 10
 slideshow:
-- image: "/uploads/38-2-kitchen-1.jpg"
-  description: 
 - image: "/uploads/38-2-kitchen-2.jpg"
   description: 
 - image: "/uploads/38-2-kitchen-3.JPG"
@@ -15,15 +13,9 @@ slideshow:
   description: 
 - image: "/uploads/38-2-bathroom-3.jpg"
   description: 
-- image: "/uploads/38-2-bathroom-4.jpg"
-  description: 
-- image: "/uploads/38-2-livingroom-1.JPG"
-  description: 
 - image: "/uploads/38-2-livingroom-2.jpg"
   description: 
 - image: "/uploads/38-2-livingroom-3.jpg"
-  description: 
-- image: "/uploads/38-2-livingroom-4.jpg"
   description: 
 - image: "/uploads/38-2-livingroom-5.jpg"
   description: 
@@ -31,21 +23,13 @@ slideshow:
   description: 
 - image: "/uploads/38-2-flooring.JPG"
   description: 
-- image: "/uploads/38-2-bedroom-3-1.jpg"
-  description: 
 - image: "/uploads/38-2-bedroom-3-2.jpg"
-  description: 
-- image: "/uploads/38-2-bedroom-3-3.jpg"
-  description: 
-- image: "/uploads/38-2-bedroom-3-4.jpg"
   description: 
 - image: "/uploads/38-2-bedroom-3-5.jpg"
   description: 
 - image: "/uploads/38-2-bedroom-3-6.JPG"
   description: 
 - image: "/uploads/38-2-bedroom-1-1.jpg"
-  description: 
-- image: "/uploads/38-2-bedroom-1-2.JPG"
   description: 
 - image: "/uploads/38-2-bedroom-1-3.jpg"
   description: 
