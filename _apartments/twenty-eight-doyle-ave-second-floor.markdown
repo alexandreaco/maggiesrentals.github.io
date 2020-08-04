@@ -22,7 +22,7 @@ slideshow:
 - image: "/uploads/28-2-16.JPG"
   description: 
 - image: "/uploads/28-2-17.JPG"
-  description:  
+  description: 
 - image: "/uploads/28-2-19.JPG"
   description: 
 - image: "/uploads/28-2-20.JPG"
