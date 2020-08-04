@@ -25,6 +25,8 @@ slideshow:
   description: 
 - image: "/uploads/28-2-11.JPG"
   description: 
+- image: "/uploads/28-2-new-fixture-1.jpg"
+  description: 
 - image: "/uploads/28-2-12.JPG"
   description: 
 - image: "/uploads/28-2-13.JPG"
@@ -36,6 +38,8 @@ slideshow:
 - image: "/uploads/28-2-16.JPG"
   description: 
 - image: "/uploads/28-2-17.JPG"
+  description: 
+- image: "/uploads/28-2-new-fixture-2.jpg"
   description: 
 - image: "/uploads/28-2-18.JPG"
   description: 
