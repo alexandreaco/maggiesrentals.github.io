@@ -3,9 +3,9 @@ title: 32 Doyle Ave, Third Floor
 date: 2017-01-28 21:16:00 Z
 position: 5
 slideshow:
-- image: "/uploads/32%20%232%20balcony%20left-898f3c.jpg"
+- image: "/uploads/32-2-balc-left.jpg"
   description: 
-- image: "/uploads/32%20%232%20balcony%20right-2567fa.jpg"
+- image: "/uploads/32-2-balc-right.jpg"
   description: 
 - image: "/uploads/32%20%232%20balcony%20view%201-48ab06.jpg"
   description: 
