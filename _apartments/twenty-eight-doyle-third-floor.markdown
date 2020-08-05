@@ -3,47 +3,45 @@ title: 28 Doyle, Third Floor
 date: 2017-01-28 21:08:00 Z
 position: 2
 slideshow:
-- image: "/uploads/28-3-1.JPG"
+- image: "/uploads/28-3-1.jpg"
   description: 
-- image: "/uploads/28-3-2.JPG"
+- image: "/uploads/28-3-2.jpg"
   description: 
-- image: "/uploads/28-3-3.JPG"
+- image: "/uploads/28-3-3.jpg"
   description: 
-- image: "/uploads/28-3-4.JPG"
+- image: "/uploads/28-3-4.jpg"
   description: 
-- image: "/uploads/28-3-5.JPG"
+- image: "/uploads/28-3-5.jpg"
   description: 
-- image: "/uploads/28-3-6.JPG"
+- image: "/uploads/28-3-6.jpg"
   description: 
-- image: "/uploads/28-3-20.JPG"
+- image: "/uploads/28-3-20.jpg"
   description: 
-- image: "/uploads/28-3-7.JPG"
+- image: "/uploads/28-3-7.jpg"
   description: 
-- image: "/uploads/28-3-8.JPG"
+- image: "/uploads/28-3-8.jpg"
   description: 
-- image: "/uploads/28-3-9.JPG"
+- image: "/uploads/28-3-9.jpg"
   description: 
-- image: "/uploads/28-3-10.JPG"
+- image: "/uploads/28-3-10.jpg"
   description: 
-- image: "/uploads/28-3-11.JPG"
+- image: "/uploads/28-3-11.jpg"
   description: 
-- image: "/uploads/28-3-12.JPG"
+- image: "/uploads/28-3-12.jpg"
   description: 
-- image: "/uploads/28-3-13.JPG"
+- image: "/uploads/28-3-13.jpg"
   description: 
-- image: "/uploads/28-3-14.JPG"
+- image: "/uploads/28-3-14.jpg"
   description: 
-- image: "/uploads/28-3-15.JPG"
+- image: "/uploads/28-3-15.jpg"
   description: 
-- image: "/uploads/28-3-16.JPG"
+- image: "/uploads/28-3-16.jpg"
   description: 
-- image: "/uploads/28-3-17.JPG"
+- image: "/uploads/28-3-17.jpg"
   description: 
-- image: "/uploads/28-3-18.JPG"
+- image: "/uploads/28-3-18.jpg"
   description: 
-- image: "/uploads/28-3-19.JPG"
-  description: 
-- image: "/uploads/28-3-20.JPG"
+- image: "/uploads/28-3-19.jpg"
   description: 
 - image: "/uploads/IMG_3762.JPG"
   description: 
