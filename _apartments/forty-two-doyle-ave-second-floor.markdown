@@ -23,6 +23,8 @@ slideshow:
   description: 
 - image: "/uploads/IMG_5914-93ae97.JPG"
   description: 
+- image: "/uploads/42-1-floorplan.jpg"
+  description: 
 - image: "/uploads/IMG_3803.JPG"
   description: 
 - image: "/uploads/IMG_3833.JPG"
