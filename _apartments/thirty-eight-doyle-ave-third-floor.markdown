@@ -31,6 +31,8 @@ slideshow:
   description: 
 - image: "/uploads/IMG_3976.JPG"
   description: 
+- image: 
+  description: "![38-2-floorplan.jpg](/uploads/38-2-floorplan.jpg)"
 building: 38 Doyle Avenue
 is available: false
 floor: Unit 4 (Third Floor)
