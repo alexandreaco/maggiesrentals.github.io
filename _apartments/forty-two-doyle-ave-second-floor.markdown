@@ -42,11 +42,11 @@ slideshow:
 - image: "/uploads/IMG_3976.JPG"
   description: 
 building: 42 Doyle Avenue
-is available: false
+is available: true
 floor: Second Floor
 bedrooms: 3
 bathrooms: 1
-available at: 2020-09-01 00:00:00 Z
+available at: 2023-10-01 00:00:00 Z
 ---
 
 3 Bedrooms
