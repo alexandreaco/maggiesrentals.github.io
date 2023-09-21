@@ -60,7 +60,7 @@ is available: true
 floor: Unit 2 (First Floor)
 bedrooms: 3
 bathrooms: 1
-available at: 2020-06-20 00:00:00 Z
+available at: 2023-09-23 00:00:00 Z
 ---
 
 3 Bedrooms
