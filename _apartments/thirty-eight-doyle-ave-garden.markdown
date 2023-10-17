@@ -23,7 +23,7 @@ slideshow:
   description: 
 - image: "/uploads/IMG_0598.JPG"
   description: 
-- image: "/uploads/IMG_9960.JPG"
+- image: "/uploads/38-1-6.JPG"
   description: 
 - image: "/uploads/IMG_0633.JPG"
   description: 
