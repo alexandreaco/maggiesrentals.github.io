@@ -3,27 +3,27 @@ title: 34 Doyle, Second Floor
 date: 2017-01-28 20:24:00 Z
 position: 7
 slideshow:
-- image: "/uploads/34-2-kitchen-1.jpg"
+- image: "/uploads/34%232%20kitchen%202024.JPG"
   description: 
-- image: "/uploads/34-2-bathroom-1.jpg"
+- image: "/uploads/34%232%20bathroom%202024.JPG"
   description: 
-- image: "/uploads/34-2-livingroom-1.JPG"
+- image: "/uploads/34%232%20living%20room%20large%20bay%20window%202024.JPG"
   description: 
-- image: "/uploads/Copy%20of%20IMG_0058.JPG"
+- image: "/uploads/34%232%20living%20room%20view%20of%20fall%20foliage%202024.JPG"
   description: 
-- image: "/uploads/Copy%20of%20IMG_0059.JPG"
+- image: "/uploads/34%232%20Bedroom%20ceiling%20fan%202024.JPG"
   description: 
-- image: "/uploads/Copy%20of%20IMG_0060.JPG"
+- image: "/uploads/34%232%20Bedroom%201%20&%20large%20closet%202024.JPG"
   description: 
-- image: "/uploads/Copy%20of%20IMG_0061.JPG"
+- image: "/uploads/34%232%20Hallway%20&%202%20bedrooms.JPG"
   description: 
-- image: "/uploads/Copy%20of%20IMG_0065.JPG"
+- image: "/uploads/34%232%20Bedroom%202,%202024.JPG"
   description: 
-- image: "/uploads/Copy%20of%20IMG_0070.JPG"
+- image: "/uploads/34%232%20bedroom%202%20lots%20of%20natural%20light%202024.JPG"
   description: 
-- image: "/uploads/Copy%20of%20IMG_0073.JPG"
+- image: "/uploads/34%232%20Bedroom%202,%20walk-in%20closet.JPG"
   description: 
-- image: "/uploads/Copy%20of%20IMG_0074.JPG"
+- image: "/uploads/34%232%20kitchen%20fridge%202024.JPG"
   description: 
 - image: "/uploads/Copy%20of%20IMG_0078.JPG"
   description: 
