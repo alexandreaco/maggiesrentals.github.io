@@ -44,7 +44,7 @@ is available: true
 floor: Unit 3 (Second Floor)
 bedrooms: 3
 bathrooms: 1
-available at: 2024-10-15 00:00:00 Z
+available at: 2025-04-01 00:00:00 Z
 ---
 
 3 Bedrooms
