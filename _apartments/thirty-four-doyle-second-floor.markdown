@@ -48,7 +48,7 @@ is available: false
 floor: Second Floor
 bedrooms: 2
 bathrooms: 1
-available at: 2026-06-01 00:00:00 Z
+available at: 2026-07-01 00:00:00 Z
 ---
 
 2 Bedrooms
