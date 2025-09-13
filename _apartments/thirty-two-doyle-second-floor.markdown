@@ -106,7 +106,7 @@ is available: true
 floor: Second Floor
 bedrooms: 3
 bathrooms: 1
-available at: 2025-06-01 00:00:00 Z
+available at: 2025-09-01 00:00:00 Z
 ---
 
 3 Bedrooms
