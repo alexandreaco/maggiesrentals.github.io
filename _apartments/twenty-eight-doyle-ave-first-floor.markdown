@@ -36,11 +36,11 @@ slideshow:
 - image: "/uploads/IMG_3976.JPG"
   description: 
 building: 28 Doyle Avenue
-is available: false
+is available: true
 floor: First Floor
 bedrooms: 3
 bathrooms: 1 1/2
-available at: 2026-07-10 00:00:00 Z
+available at: 2026-07-15 00:00:00 Z
 ---
 
 3 Bedrooms
