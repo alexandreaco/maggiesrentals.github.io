@@ -40,11 +40,11 @@ slideshow:
 - image: "/uploads/38-2-floorplan.jpg"
   description: 
 building: 38 Doyle Avenue
-is available: false
+is available: true
 floor: Unit 3 (Second Floor)
 bedrooms: 3
 bathrooms: 1
-available at: 2026-09-01 00:00:00 Z
+available at: 2026-11-01 00:00:00 Z
 ---
 
 3 Bedrooms
