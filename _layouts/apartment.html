@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<article class="apartment">
+
+  <div class="apartment-container">
+    <div class="wrapper">
+      <header class="apartment-header">
+        <h1 class="apartment-title">{{ page.title }}</h1>
+        <p class="apartment-summary">
+          {{ page.bedrooms }} Bedroom, {{ page.bathrooms }} Bath,
+          {% if page['is available'] %}
+              <span>Available on {{ page['available at'] | date: "%B %-d" }}</span>
+          {% else %}
+              <span>Unavailable</span>
+          {% endif %}
+        </p>
+      </header>
+
+      <div class="slideshow" id="slideshow">
+        {% for slide in page.slideshow %}
+          <img src="{{ site.url }}{{ slide.image }}"  alt="{{ slide.description }}"/>
+        {% endfor %}
+      </div>
+
+      <div class="apartment-content">
+        <div class="apartment-features">
+          <h3>Apartment Features</h3>
+          <p>{{ content }}</p>
+        </div>
+        <div class="building-amenities">
+          <h3>Building-Wide Amenities</h3>
+          {% assign buildingObject = site.buildings | where: 'title', page.building | first %}
+          {% if buildingObject %}
+            <p>{{ buildingObject.content }}</p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="location">
+    <div class="wrapper">
+      <h3>Location</h3>
+      <img class="buildingPhoto" src="{{ site.url }}{{ buildingObject.image }}"  alt="{{ buildingObject.title }}"/>
+      {{ buildingObject['Google Map Text'] }}
+    </div>
+  </div>
+
+</article>

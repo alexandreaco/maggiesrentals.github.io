@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<article class="building">
+
+  <header class="building-header">
+    <h1 class="building-title">{{ page.title }}</h1>
+  </header>
+
+  <div class="hero">
+    <img src="{{ site.url }}{{ page.image }}"  alt="{{ page.title }}"/>
+  </div>
+
+  <div class="building-content">
+    {{ content }}
+  </div>
+
+  <div class="apartments">
+    <ul>
+      {% for apartment in page.Apartments %}
+        {% assign apartmentObject = site.apartments | where: 'title', apartment | first %}
+        {% if apartmentObject %}
+          <li>
+            <a href="{{ site.url }}{{ apartmentObject.url }}">{{ apartmentObject.title }}</a>
+            {% if apartmentObject['is available'] %}
+              <em>Available</em>
+            {% else %}
+              <em>Unavailable</em>
+            {% endif %}
+            <p>{{ apartmentObject.content }}</p>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="map">
+    {{ page['Google Map Text'] }}
+  </div>
+
+</article>

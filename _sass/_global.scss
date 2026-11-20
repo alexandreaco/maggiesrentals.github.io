@@ -1,0 +1,42 @@
+h3 {
+  font-size: 20px;
+  font-weight: 700;
+}
+p {
+  font-size: 18px;
+}
+
+/* Flickity */
+.flickity-page-dots {
+  bottom: 15px;
+}
+.dot {
+  background-color: $highlight-color;
+}
+.dot.is-selected {
+  background-color: $gold-color;
+}
+/* Icon */
+.icon {
+  text-align: center;
+}
+.icon > svg {
+  width: 30px;
+  height: 30px;
+}
+.icon > svg path {
+  fill: $green-color;
+}
+.icon > .icon_rope {
+  width: 80px;
+  height: 98px;
+}
+blockquote {
+  border: none;
+  color: $highlight-color;
+  letter-spacing: 0;
+  margin-top: 30px;
+  padding: 0;
+  font-size: 20px;
+  text-align: center;
+}

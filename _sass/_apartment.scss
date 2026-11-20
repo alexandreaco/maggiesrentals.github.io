@@ -1,0 +1,49 @@
+.apartment-container {
+  background-color: $background-color;
+  padding-top: 20px;
+}
+.apartment-header {
+  margin-bottom: 45px;
+  margin-top: 15px;
+}
+.apartment-title {
+  font-size: 28px;
+}
+.apartment-summary {
+  font-size: 18px;
+}
+.apartment-content {
+  max-width: 800px;
+  display: flex;
+  margin: 60px auto 30px auto;
+}
+.apartment-features,
+.building-amenities {
+  width: 50%;
+  h3 {
+    color: $brand-color;
+    font-weight: 700;
+  }
+  p {
+    white-space: pre-line;
+    color: $brand-color;
+    line-height: 2.25rem;
+  }
+}
+.location {
+  padding-top: 45px;
+}
+.slideshow {
+  height: 400px;
+  @media screen and (min-width: 600px) {
+    height: 600px;
+  }
+  img {
+    height: 100%;
+    width: auto;
+  }
+}
+.buildingPhoto {
+  width: 100%;
+  margin-bottom: 40px;
+}

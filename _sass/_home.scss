@@ -1,0 +1,59 @@
+.home {
+  padding: 0 0 30px 0;
+}
+.hero {
+  width: 100%;
+  img {
+    width: 100%;
+  }
+}
+.apartment-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 45px;
+  color: $brand-color;
+}
+.al_title {
+  font-weight: 400;
+  font-size: 32px;
+}
+.al_headings {
+  width: 45%;
+  display: flex;
+}
+.al_heading {
+  width: 50%;
+}
+.al_content {
+  width: 100%;
+}
+.al_building {
+  margin-bottom: 25px;
+}
+.al_building_title {
+  display: flex;
+  border-bottom: 1px solid $gold-color;
+  padding: 10px 0;
+  margin-bottom: 15px;
+}
+.al_building_name {
+  width: 70%;
+  margin-bottom: 0;
+}
+.al_building_content {
+  display: flex;
+}
+.al_apartment {
+  width: 70%;
+  padding-left: 30px;
+}
+.al_vacancy {
+  width: 15%;
+  color: $green-color;
+}
+.al_bedroom {
+  width: 15%;
+}
+.al_bathroom {
+  width: 15%;
+}
