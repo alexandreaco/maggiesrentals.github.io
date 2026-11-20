@@ -2,49 +2,16 @@
 title: Maggie's Rentals
 timezone: UTC
 collections:
-  apartments:
-    title: Apartments
-    output: true
-  buildings:
-    title: Buildings
-    output: true
-  locations:
-    title: Locations
-    output: false
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
-defaults:
-- scope:
-    path: ''
-    type: apartments
-  values:
-    slideshow:
-    - image: 
-      description: 
-    building: 
-    is available: true
-    floor: 
-    bedrooms: 
-    bathrooms: 
-    available at: 
-    layout: apartment
-- scope:
-    path: ''
-    type: buildings
-  values:
-    image: 
-    Google Map Text: 
-    Apartments:
-    - 
-    layout: building
-email: MaggiesRentals100@gmail.com
-telephone: "(401) 739-5424"
-address: "P.O. Box 6134 \n Warwick, RI 02887"
+email: alexandref@gmail.com
 description: "Apartments for rent in Providence, Rhode Island \n"
-baseurl: 
-url: https://alexandreaco.github.io/maggiesrentals.github.io
+baseurl: ''
+url: http://yourdomain.com
+twitter_username: jekyllrb
+github_username: jekyll
 markdown: kramdown
