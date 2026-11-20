@@ -48,7 +48,7 @@ is available: true
 floor: First Floor
 bedrooms: 2
 bathrooms: 1
-available at: 2027-06-01 00:00:00 Z
+available at: 2027-12-01 00:00:00 Z
 layout: apartment
 ---
 
