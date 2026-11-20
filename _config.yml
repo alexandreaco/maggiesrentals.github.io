@@ -8,10 +8,10 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: MaggiesRentals100@gmail.com
-telephone: "(401) 739-5424"
-address: "P.O. Box 6134 \n Warwick, RI 02887"
+email: alexandref@gmail.com
 description: "Apartments for rent in Providence, Rhode Island \n"
-baseurl: 
-url: https://alexandreaco.github.io/maggiesrentals.github.io
+baseurl: ''
+url: http://yourdomain.com
+twitter_username: jekyllrb
+github_username: jekyll
 markdown: kramdown
